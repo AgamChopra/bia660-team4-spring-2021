@@ -18,14 +18,10 @@ def processed_data(data):
 
 def tokenize_sen(sen):
     stop_words = set(stopwords.words("english"))
-    tokens = nltk.word_tokenize(sen)
-    tokens = [x.replace('\\n','') for x in tokens]  
-    tokens = [''.join(e for e in string if e.isalnum()) for string in tokens]
-    tokens = [word for word in tokens if word not in stop_words]
-    tokens = [word for word in tokens if word != '']
+    tokens = [word for word in [''.join(e for e in string if e.isalnum()) for string in [x.replace('\\n','') for x in nltk.word_tokenize(sen)]] if word not in stop_words and word != '']
     return tokens
 
 '''
-_,test = processed_data(load_data(file_path = "G:\\main\\Education\\Stevens MBA (2020-2022)\\1_Spring 2021\\BIA 660\\Project\\Datasets\\ICO1_filtered.csv"))
+_,test = processed_data(load_data(file_path = "ICO1_filtered.csv"))
 print(tokenize_sen(test[0]))
 '''
