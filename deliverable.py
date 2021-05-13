@@ -98,6 +98,12 @@ def data_vectorizer(xx, num_examples, embd_dim, max_words): # converts data into
         for j in range(len(xx[i])):
                 x[i,:,j] = xx[i][j]
     return(x)
+def lstm_data_reshape(x): # (6, 8, 5000) -> (8,6,5000)
+    temp = torch.zeros(8,6,5000)
+    for i in range(6):
+        for j in range(5000):
+            temp[:,i,j] = x[i,:,j]
+    return temp
 #%%
 xx = extract_docs(tok_sens, 6, 5000)
 x = data_vectorizer(xx, 6, EMBEDDING_DIM, 5000)
@@ -121,17 +127,11 @@ class classifier_conv(nn.Module):
         self.f5 = conv1_block(128, 3)
         
     def forward(self, x):
-        print(x.shape)
         y = self.f1(x)
-        print(y.shape)
         y = self.f2(y)
-        print(y.shape)
         y = self.f3(y)
-        print(y.shape)
         y = self.f4(y)
-        print(y.shape)
         y = self.f5(y)
-        print(y.shape)
         return y
 
 class conv_model():
@@ -164,11 +164,81 @@ class conv_model():
         self.model.eval()
         y_pred = self.model(x)
         return y_pred
+    
+    def save_model(self):
+        torch.save(self.model.state_dict(), 'PATH.pth')
+    
+    def load_model(self):
+        self.model.load_state_dict(torch.load('PATH.pth'))
 #%%
 y = [] # need labels in torch.tensor format!
 conv_model = conv_model()
+print(conv_model.model)
 _ = conv_model.train(x,y,10,0.001)
 conv_model.evaluate(x)
+#%% LSTM
+class classifier_lstm(nn.ModuleList):
+    def __init__(self):
+        super(classifier_lstm,self).__init__()
+        self.drop = nn.Dropout(0.2)
+        self.lstm = nn.LSTM(5000, 3, 1)
+        self.lin = nn.Linear(3,3)
+        
+    def forward(self,x):
+        x = self.drop(x)
+        out,(h,c) = self.lstm(x)
+        y = self.lin(h[-1])
+        return y
+    
+class lstm_model():
+    def __init__(self):
+        self.model = classifier_lstm()
+            
+    def train(self,x, y, epochs = 100, lr = 0.001): # x and y are in torch tensor format
+        # prediction b4 training
+        x = lstm_data_reshape(x)
+        self.model.eval()
+        y_pred = self.model(x)
+        print(y_pred)
+        self.model.train()
+        loss_list = []
+        optimizer = torch.optim.Adam(self.model.parameters(), lr = lr, weight_decay= lr/100)
+        criterion = torch.nn.CrossEntropyLoss()
+        for epoch in range(epochs):
+            optimizer.zero_grad()
+            # Forward pass
+            y_pred = self.model(x)
+            loss = criterion(y_pred.squeeze(), torch.reshape(y,[len(y_pred.squeeze())]).float())
+            loss_list.append(loss)
+            if epoch%10 == 0:
+                print('Epoch {}: train loss: {}'.format(epoch, loss.item()))
+            # Backward pass
+            loss.backward()
+            optimizer.step()
+        return loss_list
+    
+    def evaluate(self, x):
+        self.model.eval()
+        x = lstm_data_reshape(x)
+        y_pred = self.model(x)
+        return y_pred
+    
+    def save_model(self):
+        torch.save(self.model.state_dict(), 'PATH.pth')
+    
+    def load_model(self):
+        self.model.load_state_dict(torch.load('PATH.pth'))
 #%%
-#LSTM:
-    #...
+y = [] # need labels in torch.tensor format!
+conv_model = lstm_model()
+print(lstm_model.model)
+_ = lstm_model.train(x,y,10,0.001)
+conv_model.evaluate(x)
+#%%
+'''
+xt = torch.rand(6,8,5000)
+print(x.shape)
+m2 = lstm_model()
+print(m2.model)
+print(m2.evaluate(xt))
+'''
