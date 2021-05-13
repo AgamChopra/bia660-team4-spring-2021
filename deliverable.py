@@ -230,10 +230,10 @@ class lstm_model():
         self.model.load_state_dict(torch.load('PATH.pth'))
 #%%
 y = [] # need labels in torch.tensor format!
-conv_model = lstm_model()
+lstm_model = lstm_model()
 print(lstm_model.model)
 _ = lstm_model.train(x,y,10,0.001)
-conv_model.evaluate(x)
+lstm_model.evaluate(x)
 #%%
 '''
 xt = torch.rand(6,8,5000)
