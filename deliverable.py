@@ -104,6 +104,15 @@ def lstm_data_reshape(x): # (6, 8, 5000) -> (8,6,5000)
         for j in range(5000):
             temp[:,i,j] = x[i,:,j]
     return temp
+def feedforward_data_reshape(x): # (6, 8, 5000) -> (6,8*5000)
+    temp = torch.zeros(6,40000)
+    for i in range(6):
+        l = 0
+        for j in range(8):
+            for k in range(5000):
+                temp[i][l] = x[i][j][k]
+                l += 1
+    return temp
 #%%
 xx = extract_docs(tok_sens, 6, 5000)
 x = data_vectorizer(xx, 6, EMBEDDING_DIM, 5000)
@@ -114,7 +123,7 @@ def conv_block(in_c, out_c, ker, std, kp, sp):
     return out
 
 def conv1_block(in_c, out_c):
-    out = nn.Sequential(nn.Conv1d(in_channels=in_c, out_channels=out_c, kernel_size=3, stride=1),nn.BatchNorm1d(out_c))#,nn.Softmax(dim=1))
+    out = nn.Sequential(nn.Conv1d(in_channels=in_c, out_channels=out_c, kernel_size=3, stride=1),nn.BatchNorm1d(out_c),nn.Sigmoid())#,nn.Softmax(dim=1))
     return out
 
 class classifier_conv(nn.Module):
@@ -124,7 +133,7 @@ class classifier_conv(nn.Module):
         self.f2 = conv_block(16,32,9,2,9,5)
         self.f3 = conv_block(32,64,4,2,4,3)
         self.f4 = conv_block(64,128,6,3,3,1)
-        self.f5 = conv1_block(128, 3)
+        self.f5 = conv1_block(128, 1)
         
     def forward(self, x):
         y = self.f1(x)
@@ -146,7 +155,7 @@ class conv_model():
         self.model.train()
         loss_list = []
         optimizer = torch.optim.Adam(self.model.parameters(), lr = lr, weight_decay= lr/100)
-        criterion = torch.nn.CrossEntropyLoss()
+        criterion = torch.nn.BCELoss()
         for epoch in range(epochs):
             optimizer.zero_grad()
             # Forward pass
@@ -172,17 +181,19 @@ class conv_model():
         self.model.load_state_dict(torch.load('PATH.pth'))
 #%%
 y = [] # need labels in torch.tensor format!
+xt = [] # train set
 conv_model = conv_model()
 print(conv_model.model)
 _ = conv_model.train(x,y,10,0.001)
-conv_model.evaluate(x)
+#xt = torch.rand(6,8,5000)
+conv_model.evaluate(xt)
 #%% LSTM
 class classifier_lstm(nn.ModuleList):
     def __init__(self):
         super(classifier_lstm,self).__init__()
         self.drop = nn.Dropout(0.2)
         self.lstm = nn.LSTM(5000, 3, 1)
-        self.lin = nn.Linear(3,3)
+        self.lin = nn.Sequential(nn.Linear(3,1),nn.Sigmoid())
         
     def forward(self,x):
         x = self.drop(x)
@@ -203,7 +214,7 @@ class lstm_model():
         self.model.train()
         loss_list = []
         optimizer = torch.optim.Adam(self.model.parameters(), lr = lr, weight_decay= lr/100)
-        criterion = torch.nn.CrossEntropyLoss()
+        criterion = torch.nn.BCELoss()
         for epoch in range(epochs):
             optimizer.zero_grad()
             # Forward pass
@@ -233,7 +244,7 @@ y = [] # need labels in torch.tensor format!
 lstm_model = lstm_model()
 print(lstm_model.model)
 _ = lstm_model.train(x,y,10,0.001)
-lstm_model.evaluate(x)
+lstm_model.evaluate(xt)
 #%%
 '''
 xt = torch.rand(6,8,5000)
@@ -242,3 +253,59 @@ m2 = lstm_model()
 print(m2.model)
 print(m2.evaluate(xt))
 '''
+#%%
+#perceptron
+class classifier_perceptron(nn.Module):
+    def __init__(self, in_size, out_size):#8,1
+        super(classifier_perceptron, self).__init__()
+        self.f = nn.Sequential(nn.Linear(in_size,out_size),nn.Sigmoid())
+
+    def forward(self, x):
+        y = self.f(x)
+        return y
+    
+class perceptron_model():
+    def __init__(self):
+        self.model = classifier_perceptron(40000,1)
+            
+    def train(self,x, y, epochs = 100, lr = 0.001): # x and y are in torch tensor format
+        # prediction b4 training
+        x = feedforward_data_reshape(x)
+        self.model.eval()
+        y_pred = self.model(x)
+        print(y_pred)
+        self.model.train()
+        loss_list = []
+        optimizer = torch.optim.Adam(self.model.parameters(), lr = lr, weight_decay= lr/100)
+        criterion = torch.nn.BCELoss()
+        for epoch in range(epochs):
+            optimizer.zero_grad()
+            # Forward pass
+            y_pred = self.model(x)
+            loss = criterion(y_pred.squeeze(), torch.reshape(y,[len(y_pred.squeeze())]).float())
+            loss_list.append(loss)
+            if epoch%10 == 0:
+                print('Epoch {}: train loss: {}'.format(epoch, loss.item()))
+            # Backward pass
+            loss.backward()
+            optimizer.step()
+        return loss_list
+    
+    def evaluate(self, x):
+        self.model.eval()
+        x = feedforward_data_reshape(x)
+        y_pred = self.model(x)
+        return y_pred
+    
+    def save_model(self):
+        torch.save(self.model.state_dict(), 'PATH.pth')
+    
+    def load_model(self):
+        self.model.load_state_dict(torch.load('PATH.pth'))   
+#%%
+#m3 = perceptron_model()
+#m3 = lstm_model()
+m3 = conv_model()
+yt = torch.tensor((1,0,0,1,1,0))
+m3.train(xt,yt,100)
+print(m3.evaluate(xt))
