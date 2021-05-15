@@ -1,0 +1,652 @@
+,name,country,price_usd,soft_cap_usd,hard_cap_usd,distributed_in_ico,token_for_sale,whitelist,kyc,bonus,restricted_areas,bounty,mvp,pre_ico_price_usd,platform,accepting,link_provided,ico_period,pre_ico_period
+0,DenchMusic,Netherlands,0.0857,568182,39772740,0.85,425000000.0,Yes,Yes,Available,1,Available,Available,0.036214856000000004,Ethereum,ETH,Yes,14,9
+1,Eristica,Singapore,0.02,1000000,10000000,0.68,156905453.0,No,Yes,Unavailable,3,Unavailable,Unavailable,0.02,Ethereum,BTC/ETH/LTC/BCH,Yes,62,30
+2,Lunch Money,USA,1.0,1000000,40000000,0.16,40000000.0,Not Specified,Not Specified,Unavailable,1,Unavailable,Unavailable,0.8,Ethereum,ETH,Yes,31,31
+3,Okschain,Estonia,0.001,4725000,12090000,0.78,12090000000.0,No,Yes,Unavailable,1,Available,Available,0.001,Ethereum,"ETH, BTC, USDT, USD, EUR",Yes,48,30
+4,Shard,UK,0.6113,963821,8031849,0.8,20000000.0,No,No,Unavailable,1,Available,Unavailable,0.26533391616,Scrypt,"BTC, ETH, LTC, XRP",Yes,28,7
+5,Bow,France,0.3,3000000,6000000,0.7,25000000.0,Yes,Yes,Unavailable,3,Unavailable,Unavailable,0.32,Ethereum,ETH,Yes,61,31
+6,IQeon,Estonia,2.15,1381654,13125713,0.7,7000000.0,No,No,Unavailable,2,Available,Unavailable,0.994584262857143,Ethereum,"ETH, BTC, LTC",Yes,42,9
+7,TrustBar,South Africa,0.33,10000000,35000000,0.6,64800000.0,Yes,Yes,Unavailable,1,Available,Unavailable,0.33,NEO,"BTC, NEO",Yes,30,30
+8,DatEat,Singapore,0.15,3000000,23000000,0.4,200000000.0,No,Yes,Unavailable,1,Unavailable,Unavailable,0.09,Ethereum,ETH,Yes,112,20
+9,Dream Real,British Virgin Islands,0.016,48412,26311113,0.5,750000000.0,Yes,Yes,Unavailable,4,Available,Available,0.0397076111831,Ethereum,"ETH, BTC",Yes,123,265
+10,Gagapay Network,UK,0.05,1000000,34500000,0.69,690000000.0,Yes,Yes,Unavailable,3,Available,Unavailable,0.03,NEO,"NEO, BTC, LTC, ETH, DASH, GAS",Yes,76,1
+11,JoyToken,UK,0.14,1000000,46340000,0.5,700000000.0,Yes,Yes,Unavailable,2,Available,Unavailable,0.1,Ethereum,"ETH, BTC",Yes,32,108
+12,UHIVE,UK,0.003,10000000,54000000,0.5,40000000000.0,No,No,Unavailable,1,Available,Unavailable,0.0015,Ethereum,"ETH, BTC, Fiat, Android Play Store, Paypal",Yes,201,49
+13,Box2Table,Bulgaria,0.0523,5000000,41000000,0.76,380000000.0,No,Yes,Unavailable,1,Available,Unavailable,0.08,Ethereum,ETH,Yes,61,35
+14,FIXY NETWORK,Hong Kong,0.114,1155290,6585153,0.68,68000000.0,No,No,Unavailable,1,Unavailable,Unavailable,0.096326655568,Ethereum,ETH,Yes,15,8
+15,Inflr,Cayman Islands,0.0218,242596,3056719,0.35,140000000.0,Yes,Yes,Unavailable,1,Available,Available,0.02829285625,Ethereum,"ETH, BTC, BCH, LTC, Fiat",Yes,63,102
+16,Nauticus,Australia,0.0741,8000000,88000000,0.8,2000000000.0,Yes,No,Unavailable,1,Available,Available,0.08223679687999999,Ethereum,"BTC, ETH, BCH, Fiat",Yes,60,12
+17,TheFaustFlick,Venezuela,0.9571,1425719,2592217,0.5,500000.0,No,Yes,Unavailable,8,Unavailable,Unavailable,0.682218095,Ethereum,ETH,Yes,244,60
+18,Ccecoin,Hong Kong,0.0592,3000000,10000000,0.1,100000000.0,No,Yes,Unavailable,1,Available,Unavailable,0.06923040150000001,Ethereum,ETH,Yes,29,30
+19,Digital Telecom,Netherlands,0.1601184772386,250000,3000000,0.75,1000000.0,No,Yes,Unavailable,1,Unavailable,Unavailable,0.1388440722738,Separate Blockchain,"TRX, BTC, USD, EUR",Yes,118,46
+20,ETHernitymining,South Africa,0.2,2500000,21000000,0.8,120000000.0,No,No,Unavailable,1,Available,Unavailable,0.15,Ethereum,ETH,Yes,45,30
+21,Enkidu,Singapore,0.045,5000000,30000000,0.52,780000000.0,Yes,Yes,Unavailable,3,Unavailable,Available,0.037000000000000005,Ethereum,"ETH, BTC",Yes,61,14
+22,Eticket4,British Virgin Islands,0.384,37028,5109933,0.46,13800000.0,Yes,Yes,Unavailable,1,Available,Unavailable,1.071130005,Ethereum,"ETH, BTC",Yes,32,13
+23,Fondocoin,UK,0.2,5000000,34000000,0.5,100000000.0,No,Yes,Unavailable,1,Unavailable,Unavailable,0.2,Ethereum,"BTC, ETH",Yes,29,45
+24,Productivist,United Arab Emirates,0.1182,2321074,23210740,0.617,61700000.0,Yes,Yes,Unavailable,1,Available,Available,0.078527995,Ethereum,"ETH, BTC, DOGE, DASH, LTC",Yes,138,14
+25,Quant Network,Switzerland,1.58,4354506,38185668,0.6819,31000000.0,Yes,Yes,Unavailable,9,Unavailable,Unavailable,0.8103726535662299,Ethereum,ETH,Yes,28,13
+26,RankingBall,Singapore,0.009000000000000001,3000000,30000000,0.2,2000000000.0,No,Yes,Unavailable,1,Available,Available,0.00979901978,Ethereum,ETH,Yes,20,53
+27,GlobeCas,Switzerland,0.0056,5000000,50000000,0.45,9000000000.0,Yes,Yes,Unavailable,2,Unavailable,Unavailable,0.004572473707999999,Ethereum,"ETH, BTC, LTC, Fiat",Yes,43,43
+28,ParamountDax,UK,0.15,1750000,9310000,0.65,65000000.0,No,Yes,Unavailable,1,Unavailable,Available,0.15,Ethereum,"ETH, BTC, DASH, LTC, Fiat",Yes,91,36
+29,ZooomEx,Russia,0.03,400000,1200000,0.5,50000000.0,No,No,Unavailable,1,Available,Available,0.023,Ethereum,ETH,Yes,12,7
+30,AIREN,Mexico,0.15,7000000,19000000,0.5,45000000.0,No,Yes,Unavailable,1,Unavailable,Unavailable,0.0870326549549549,Ethereum,"ETH , BTC",Yes,26,13
+31,PlayerWonCoin,Anguilla,0.1,2500000,25000000,0.3,1000000000.0,No,No,Unavailable,1,Unavailable,Available,0.05,Ethereum,"BTC, ETH, USD",Yes,58,30
+32,Sparkle,Canada,0.2393,0,9563348,0.6,19698000.0,No,Yes,Unavailable,2,Available,Available,0.3215629575,Ethereum,"BTC, ETH, LTC",Yes,48,10
+33,Trends Project,Hong Kong,0.25,5000000,20000000,0.85,85000000.0,Yes,Yes,Unavailable,1,Available,Unavailable,0.1875,Ethereum,"ETH, BTC",Yes,49,30
+34,VOSAI,USA,0.75,15000000,100000000,0.15,215000000.0,Yes,Yes,Unavailable,1,Unavailable,Unavailable,0.75,Ethereum,"ETH, BTC, Fiat",Yes,117,181
+35,Attrace,Netherlands,0.017,2000000,5929302,0.5,500000000.0,No,Yes,Available,2,Available,Available,0.025,Custom,"ETH, BTC, Fiat",Yes,56,14
+37,Lucre Global,USA,0.25,4000000,40000000,0.72,259000000.0,No,Yes,Available,1,Available,Available,0.1,Ethereum,"BTC, ETH, Fiat",Yes,91,29
+38,UCOIN,British Virgin Islands,1.0,25000000,50000000,0.1,500000000.0,No,Yes,Available,3,Unavailable,Available,1.0,Ethereum,"ETH, BTC, Fiat",Yes,364,364
+39,theCryptoWatch,Russia,0.0957,35139,1054190,0.75,20000000.0,No,No,Unavailable,1,Unavailable,Unavailable,0.1061565064,Ethereum,"ETH, BTC, BCH, LTC",Yes,61,111
+40,Bucky,Seychelles,0.25,385400000,554600000,0.41,385400000.0,No,Yes,Unavailable,1,Unavailable,Unavailable,0.15,Ethereum,ETH,Yes,63,60
+41,SmartGold,Tanzania,20.0,7000000,14200000,0.8,800000.0,No,No,Unavailable,1,Unavailable,Unavailable,15.0,UNIVERSA,"BTC, ETH, LTC, DASH",Yes,90,20
+42,EiraCube,Spain,0.0224537658666667,3000000,25000000,0.5,750000000.0,No,No,Unavailable,1,Unavailable,Unavailable,0.022431312100800002,Ethereum,"ETH, BTC, Fiat",Yes,31,30
+43,Luxure Global Citizen,UK,9.52,15000000,250000000,0.5,600000000.0,Yes,Yes,Unavailable,3,Unavailable,Unavailable,1.5,Ethereum,Fiat,Yes,32,29
+44,RxEAL,Seychelles,0.594,203875,24176271,0.56,53760000.0,No,Yes,Unavailable,12,Unavailable,Unavailable,0.538300018333333,Ethereum,ETH,Yes,60,21
+45,SIX.Network,Thailand,0.1,15000000,42905579,0.4745,474500000.0,Yes,Yes,Unavailable,3,Unavailable,Unavailable,0.1,Stellar,"ETH, XLM",Yes,58,17
+47,Walkex,Estonia,0.0536,1102256,55112800,0.6,87000000.0,No,Yes,Unavailable,22,Unavailable,Available,0.5471355,Waves,"BTC, ETH, BCH, LTC, DASH",Yes,136,82
+48,CompositeCoin,Russia,1.0,5000000,10000000,0.7,10500000.0,Not Specified,Not Specified,Unavailable,1,Unavailable,Unavailable,0.5,Ethereum,ETH,Yes,31,31
+49,Pink Taxi Token,UK,0.1816,10000000,35000000,0.7,35000000.0,Yes,No,Unavailable,1,Available,Available,0.11379499824999999,Ethereum,"ETH, BTC, Fiat",Yes,183,46
+50,Virtual Rehab,Estonia,0.1,5000000,20000000,0.6,240000000.0,No,No,Available,1,Available,Available,0.1,Ethereum,"ETH, BTC",Yes,10,13
+51,XR Web,Canada,0.15,2000000,25000000,0.35,455000000.0,No,Yes,Unavailable,1,Available,Available,0.12,Ethereum,"ETH, BTC, BCH, USDT, STEEM,, Paypal, All Fiats , Bank Wire",Yes,168,30
+52,unitalent,Switzerland,0.2,25000000,100000000,0.5,100000000.0,Yes,Yes,Unavailable,2,Available,Unavailable,0.14,Ethereum,"ETH, BTC, Fiat",Yes,91,152
+53,AIO.Community,Norway,0.079,4670379,23351899,0.8,350000000.0,No,No,Unavailable,1,Unavailable,Unavailable,0.054680401600000005,Ethereum,ETH,Yes,51,20
+54,BETEX,Hong Kong,3.0,1000000,9000000,0.3,3000000.0,No,Yes,Unavailable,4,Unavailable,Unavailable,2.0,Ethereum,"ETH, BTC",Yes,45,58
+55,Ledder,Hong Kong,0.0181,200000,606000,0.69,30000000.0,No,Yes,Available,2,Available,Available,0.01,Ethereum,"ETH, USD",Yes,518,39
+56,Skye Properties,USA,42.145,62974797,167932792,0.8,4800000.0,Not Specified,Not Specified,Unavailable,1,Unavailable,Unavailable,18.91608032,Ethereum,"ETH, Fiat",Yes,23,13
+57,SprintX,Switzerland,0.45,9492606,105473400,0.65,299000000.0,No,Yes,Unavailable,4,Available,Available,0.45,Ethereum,ETH,Yes,29,14
+58,Futbol Coin,Panama,1.0,500000,20000000,0.3,11000000.0,No,No,Available,13,Available,Unavailable,0.25,Ethereum,"BTC, ETH, USDT, XRP, LTC, BCH, BNB, EOS, XLM, XMR, TRX, ZEC, DASH",Yes,364,90
+59,Loopex IEO,Georgia,0.0065,2600000,2600000,0.4,4000000000.0,No,No,Unavailable,1,Unavailable,Available,0.005,Ethereum,"ETH, BTC",Yes,62,8
+60,Multiversum,Malta,1.0,5000000,35000000,0.76,141000000.0,No,Yes,Unavailable,1,Available,Available,1.0,Ethereum,"ETH, BTC, LTC, DASH, ETC",Yes,54,30
+61,Out of the Cloud,USA,0.15,10000000,50000000,0.7,700000000.0,No,Yes,Unavailable,1,Available,Available,0.1,Ethereum,ETH,Yes,38,31
+62,Altindex,Cayman Islands,1.15,1250000,10800000,0.9,10800000.0,No,Yes,Unavailable,1,Unavailable,Unavailable,0.9,Ethereum,ETH,Yes,11,21
+63,ZoneX eSports Platform,British Virgin Islands,0.0779,1000000,5000000,0.75,75000000.0,No,Yes,Unavailable,1,Available,Unavailable,27.83630065,Ethereum,"ETH, BTC, BCH, LTC, XMR, DASH, ZEC, XRP, Fiat",Yes,20,20
+64,ySign,Malta,0.6684,2000000,15000000,0.77,80000000.0,No,No,Unavailable,2,Available,Unavailable,0.1011117591,Ethereum,"ETH, XEM",Yes,15,28
+65,Bitlumens,Switzerland,0.2369,1000000,25000000,0.5,50000000.0,No,Yes,Unavailable,4,Unavailable,Unavailable,0.284660593,Ethereum,ETH,Yes,27,19
+67,Dubai Token,United Arab Emirates,0.02,2000000,50000000,0.45,450000000.0,No,Yes,Unavailable,1,Unavailable,Available,0.02,Ethereum,ETH,No,122,31
+68,HorseChain,United Arab Emirates,0.3,4000000,12000000,0.65,162500000.0,No,Yes,Unavailable,6,Unavailable,Unavailable,0.1,Ethereum,"ETH, BTC",Yes,40,12
+69,Aeternum ICO,Latvia,0.0226,560802,3364812,0.9,27000000000.0,No,Yes,Unavailable,3,Available,Available,0.01212283,Ethereum,ETH,Yes,181,28
+70,B-mail,Singapore,0.992,3376544,30951302,0.35,30800000.0,Not Specified,Not Specified,Unavailable,1,Unavailable,Unavailable,0.39695264317699996,Ethereum,ETH,Yes,20,10
+71,Boomstarter.Network,Singapore,0.8,3000000,20000000,0.75,36000000.0,No,Yes,Unavailable,37,Unavailable,Available,0.6000000238000001,Ethereum,"ETH, BTC",Yes,86,28
+72,BuddToken,UK,0.75,10000000,70000000,0.5,10000000.0,No,Yes,Unavailable,5,Available,Unavailable,0.75,Ethereum,"ETH, BTC",Yes,34,21
+73,HiHealth,Switzerland,0.009000000000000001,1219152,3160765,0.6,600000000.0,No,Yes,Unavailable,8,Available,Available,0.00797052002,Ethereum,ETH,Yes,70,52
+74,Oasis City,Singapore,0.0057,5300000,32100000,0.5,3000000000.0,No,Yes,Unavailable,1,Unavailable,Unavailable,0.006835050200000001,Ethereum,ETH,Yes,58,60
+75,Chain Works,Japan,0.0222,752211,46651561,0.3,3000000000.0,Yes,Yes,Unavailable,7,Unavailable,Unavailable,0.022758999649999997,Ethereum,ETH,Yes,13,46
+76,Cryptoriya,UK,0.5,418398,6973300,0.7,70000000.0,Yes,No,Unavailable,1,Unavailable,Unavailable,0.2681340025,Ethereum,ETH,Yes,44,36
+77,Elementh,Singapore,0.14,6699240,20097720,0.72,217500000.0,No,Yes,Unavailable,1,Available,Unavailable,0.0923560974,Ethereum,"ETH, BTC",Yes,29,30
+78,Inbot InToken,Germany,0.0116,3486021,44156266,0.45,5800000000.0,Yes,Yes,Unavailable,1,Unavailable,Available,0.0117855,Ethereum,ETH,Yes,31,61
+79,Minter,Saint Kitts and Nevis,0.0719,1895282,6317609,0.01,10000000000.0,No,Yes,Unavailable,2,Available,Available,0.0634,Separate blockchain,"BTC, LTC, ETH",Yes,60,60
+80,P2P solutions foundation,Mauritius,0.03,750000,50000000,0.5,5000000000.0,Yes,No,Unavailable,1,Available,Available,0.0233,Ethereum,"BTC, BCH, ETH, LTC",Yes,125,29
+81,Sahara Chain,United Arab Emirates,0.098,1130387,49737070,0.34,2000000000.0,Not Specified,Not Specified,Unavailable,1,Unavailable,Unavailable,0.028616799900000003,Ethereum,ETH,Yes,70,26
+82,Spade Coin,United Arab Emirates,1.25,904030,1469048,0.78,9212500.0,Yes,No,Unavailable,1,Available,Available,0.15,Bitcoin,"ETH, BTC",Yes,75,14
+83,BX.BET,Malta,0.19,5000000,20000000,0.6,120000000.0,Yes,Yes,Unavailable,28,Available,Available,0.19,Ethereum,"ETH, BTC, Fiat",Yes,28,14
+84,Lunes Platform,Brazil,0.3,10920000,57800000,0.79,450000000.0,Yes,No,Unavailable,1,Available,Unavailable,0.055,Separate Blockchain,"BTC, ETH, LTC",Yes,60,33
+85,Omnitude,UK,0.46,10000000,15700000,0.55,55000000.0,No,Yes,Unavailable,1,Available,Unavailable,0.4,Hyperledger,"ETH, BTC, WIRE",Yes,68,17
+86,SecureCryptoPayments,Estonia,0.2143,265391,32112343,0.6,121000000.0,No,Yes,Unavailable,1,Unavailable,Unavailable,0.116378342,Ethereum,ETH,Yes,61,35
+87,SilkChain,Singapore,0.02,6978771,38999019,0.25,2500000000.0,No,Yes,Unavailable,4,Available,Available,0.02,Ethereum,"ETH, BTC",Yes,58,31
+88,The Freedom Coin,Thailand,2.875,25000000,10000000,0.26625,6656250.0,No,Yes,Unavailable,1,Unavailable,Unavailable,2.7704460939,X11,BTC,Yes,29,23
+89,CariOS,Singapore,0.0039,2368571,13165312,0.4,4000000000.0,No,Yes,Unavailable,2,Available,Unavailable,0.004,Ethereum,ETH,Yes,31,28
+90,RepuX,Poland,0.2,1000000,33100000,0.5,500000000.0,Not Specified,Not Specified,Unavailable,1,Available,Unavailable,0.1,Ethereum,"ETH, BTC, Fiat",Yes,30,108
+91,Swinca,Switzerland,0.6,10000000,75000000,0.35,140000000.0,Yes,Yes,Unavailable,2,Unavailable,Available,0.3,PivX,"BTC, ETH, Fiat",Yes,58,60
+92,Time Money,Latvia,0.1,240000,14400000,0.55,220000000.0,Yes,No,Unavailable,5,Unavailable,Unavailable,0.07,Ethereum,ETH,Yes,90,47
+93,Volentix,Georgia,0.33,3000000,48500000,0.17,364000000.0,Yes,Yes,Unavailable,2,Available,Available,0.17,EOS,"BTC, BCH, EOS, ETH",Yes,91,115
+94,Conjure,USA,0.1,1500000,6000000,0.7,70000000.0,Yes,Yes,Unavailable,7,Unavailable,Unavailable,0.06,NEO,"BTC, ETH, LTC, NEO",Yes,30,29
+95,PlayBets,Ukraine,0.0721,1000000,10000000,0.69,207000000.0,Not Specified,Not Specified,Unavailable,1,Unavailable,Unavailable,0.047450874375,Ethereum,"ETH, BTC, BCH, LTC, KICK",Yes,29,29
+96,Remco,USA,0.08,6000000,60000000,0.65,1300000000.0,No,Yes,Unavailable,3,Available,Available,0.06,Ethereum,"ETH, BTC, BCH, VCASH",Yes,120,29
+98,International Science Hub,Russia,0.0882,2534749,43696263,0.6,300000000.0,No,No,Unavailable,1,Unavailable,Unavailable,0.0842877653731343,Ethereum,ETH,Yes,122,92
+99,CoinMetro,Hong Kong,0.1392,50000000,300000000,0.5,250000000.0,No,No,Unavailable,1,Unavailable,Unavailable,0.03530991,Ethereum,"BTC, BCH, ETH, LTC",Yes,38,31
+100,Crestonium,Switzerland,0.1402,2000000,55000000,0.73,365000000.0,Yes,No,Unavailable,1,Available,Unavailable,0.18989259766,Ethereum,"ETH, BTC, LTC, Various",Yes,45,6
+101,Discoin,Hong Kong,0.0182,278862,4461796,0.25,250000000.0,No,Yes,Unavailable,6,Unavailable,Available,0.013929125,Separate blockchain,"BTC, ETH, FIAT & other",Yes,30,46
+104,LabStart,France,1.546,474519,33600000,0.8,80.0,Yes,Yes,Unavailable,1,Unavailable,Unavailable,1.048573974,Ethereum,ETH,Yes,30,30
+105,ParcelX,Singapore,0.18,7000000,40000000,0.3,300000000.0,Yes,Yes,Unavailable,3,Unavailable,Unavailable,0.12739299197999998,Ethereum,ETH,Yes,92,29
+106,DACC,China,0.0022,9833200,14749800,0.3,9000000000.0,Yes,Yes,Unavailable,2,Unavailable,Unavailable,0.0029014427571428603,Ethereum,ETH,Yes,27,5
+107,Peer Mountain,British Virgin Islands,0.0393,2000000,5290052,0.4,333000000.0,Yes,Yes,Unavailable,1,Available,Available,0.0649088571428572,Ethereum,ETH,Yes,29,271
+108,Provoco,Lithuania,0.1695,608168,8688120,0.51,51000000.0,Yes,Yes,Unavailable,1,Unavailable,Unavailable,0.564475674305556,Ethereum,ETH,Yes,159,36
+109,RoBET,Malta,8.7,2097665,20976659,0.6,3200000.0,No,Yes,Unavailable,5,Unavailable,Unavailable,13.823867186666698,Ethereum,ETH,Yes,31,77
+110,TravelNote,Indonesia,0.1528,68350,205051,0.4,2000000.0,No,No,Unavailable,1,Unavailable,Unavailable,0.1392103958,Ethereum,ETH,Yes,12,7
+111,Truxir,Tunisia,0.4,500000,1800000,0.3333,50000000000.0,No,Yes,Unavailable,1,Unavailable,Unavailable,0.04,Ethereum,"ETH, BTC, LTC, Fiat",Yes,75,31
+112,Betform,Singapore,0.1,1500000,16900000,0.8390000000000001,201250000.0,Yes,Yes,Available,2,Available,Available,0.07,Ethereum,ETH,Yes,23,30
+113,LeadRex,USA,0.1062,52518,2247791,0.8,109600000.0,Yes,Yes,Unavailable,1,Available,Available,0.0131,Ethereum,"BTC, ETH",Yes,97,74
+114,LevelNet,USA,0.01,15000000,12000000,0.8,1500000000.0,Yes,Yes,Unavailable,1,Available,Unavailable,0.01,Ethereum,"BTC, ETH, LTC, Fiat",Yes,21,20
+115,Sancoj,Nigeria,0.001,279795,39171301,0.5,50000000000.0,No,No,Unavailable,2,Available,Unavailable,0.00030067470764705897,Ethereum,ETH,Yes,29,7
+116,Cryptoriyal,Singapore,200.0,30000000,70000000,0.33,980000000.0,No,Yes,Unavailable,1,Unavailable,Available,20.0,Ethereum,ETH,Yes,366,249
+117,NairaX,Nigeria,0.003,10000000,15000000,0.35,3500000000.0,No,No,Unavailable,1,Available,Available,0.002,Ethereum,"ETH, BTC, LTC",Yes,29,30
+118,InBet,British Virgin Islands,0.0319,400000,5600000,0.5,50000000.0,No,No,Unavailable,3,Available,Unavailable,0.0334175995,Ethereum,ETH,Yes,76,16
+119,Phoneum,British Virgin Islands,0.01,1000000,20000000,0.12,2462500000.0,No,Yes,Unavailable,4,Available,Available,0.0066,Ethereum,"ETH, BTC, LTC, DASH",Yes,244,13
+120,Fox Trading,Estonia,0.49,500000,4500000,0.7,7000000.0,Yes,Yes,Unavailable,1,Available,Available,0.294604161666667,Ethereum,"ETH, BTC",Yes,16,7
+121,Peace Token,Singapore,0.07,2000000,6000000,0.55,110000000.0,No,No,Unavailable,1,Unavailable,Unavailable,0.0525,Ethereum,"BTC, ETH, LTC, XLM",Yes,27,19
+122,Teslafunds,Serbia,0.0316,3500,250000,0.14,2000000.0,No,No,Unavailable,1,Unavailable,Unavailable,0.77,Ethereum,USDT,Yes,1,1
+123,ClearPoll,Australia,0.1285,1000000,10000000,0.7,10000000.0,Not Specified,Not Specified,Unavailable,1,Unavailable,Unavailable,0.1051446425,Ethereum,ETH,Yes,24,23
+124,Credible Network,Singapore,0.09,5000000,18500000,0.5,250000000.0,Yes,Yes,Unavailable,28,Unavailable,Available,0.07200000000000001,Ethereum,"ETH, BTC, HT, BNB",Yes,31,30
+125,Invest in Brokers,UK,0.0465,186278,4989699,0.6,126000000.0,No,No,Unavailable,1,Available,Available,0.07634640377,Ethereum,"ETH, BTC",Yes,46,50
+126,MCV-CAP,Austria,0.4517,3000000,106600000,0.35,500000000.0,No,Yes,Unavailable,4,Available,Unavailable,0.26,Ethereum,"ETH, BTC, Fiat",Yes,282,61
+127,AirPod,UK,0.1,2700000,20000000,0.8,200000000.0,Yes,Yes,Available,5,Available,Unavailable,0.1,Ethereum,ETH,Yes,38,139
+128,Biometrids,Denmark,0.2693,1948541,12804698,0.75,75000000.0,No,No,Unavailable,2,Unavailable,Unavailable,0.11656900025,Ethereum,ETH,Yes,28,6
+130,OZOTOP,Cayman Islands,0.21729402831,218614,54184276,0.26,292131143.0,No,No,Unavailable,5,Available,Unavailable,0.0282830625,Waves DEX,"ETH, BTC, LTC, SEPA, Fiat",Yes,109,32
+131,ShareMeAll,France,0.9046,2240460,8401725,0.6,36000000.0,No,Yes,Unavailable,1,Unavailable,Unavailable,0.5736445,Ethereum,"BTC, ETH, EUR, USD",Yes,291,58
+132,Aidus,Hong Kong,0.06,3000000,100000000,0.133,2654000000.0,No,Yes,Unavailable,1,Unavailable,Unavailable,0.06,Ethereum,ETH,Yes,103,33
+133,Blockchain Ventureon,Canada,23.912,580147,23205900,0.78,1000000.0,Yes,No,Unavailable,1,Unavailable,Unavailable,24.38252,Ventureon,"ETH, BTC, BCH, LTC, DASH",Yes,97,62
+134,Borneo,Indonesia,0.07,5000000,67500000,0.87,1305000000.0,Yes,Yes,Unavailable,1,Available,Unavailable,0.3,IronGeekChain,"BTC, ETH, LTC, XMR, DASH, ZEC, TRX, XZC, NEO",Yes,92,60
+135,Bitzon,Canada,0.05,3000000,15000000,0.65,8125000000.0,No,Yes,Unavailable,11,Available,Unavailable,0.04,Stellar,ETH,Yes,190,7
+136,Custodi,South Africa,0.6,10000000,35000000,0.5,35000000.0,No,No,Unavailable,1,Available,Unavailable,0.2,Ethereum,FIAT,Yes,74,45
+137,Math Oriented Value Investing,USA,0.0331,1000000,15000000,0.5,500000000.0,No,No,Unavailable,1,Unavailable,Unavailable,0.02044588012,Ethereum,ETH,Yes,17,6
+138,Typerium,UK,0.05,4500000,40000000,0.5,1000000000.0,No,Yes,Unavailable,2,Available,Unavailable,0.01,Ethereum,ETH,Yes,27,35
+139,Adult X Token,Austria,0.0197,1000000,10000000,0.6,400000000.0,No,No,Unavailable,1,Available,Available,0.019810279860000002,Ethereum,"ETH, BTC, LTC",Yes,212,61
+140,Buddy,Poland,0.0591,1577975,11834819,0.6,470000000.0,Yes,Yes,Available,1,Available,Available,0.047060669000000006,Ethereum,ETH,Yes,58,61
+141,FRED Energy,UK,0.005,120000,2300000,0.57,460560000.0,No,Yes,Unavailable,4,Unavailable,Unavailable,0.005,Stellar,"XLM, ETH, BTC, LTC, BCH, TRX, XRP, BNB",Yes,335,60
+142,Iagon,Norway,0.12,1138004,11380049,0.7,700000000.0,No,Yes,Unavailable,2,Available,Available,0.06,Ethereum,ETH,Yes,90,30
+143,NOMAD.space,USA,0.1,1000000,5000000,0.51,112000000.0,No,No,Unavailable,6,Available,Available,0.04,EOS,ETH,Yes,119,121
+144,The Geoma DAO,Romania,1.0453101842,1328187,13281871,0.995,20895000.0,No,No,Unavailable,1,Unavailable,Unavailable,1.119358965,Separate Blockchain,"ETH, BTC",Yes,73,31
+145,BCharity - International Charity Exchange,UK,1.0,5000000,35000000,0.8,80000000.0,No,Yes,Unavailable,1,Available,Unavailable,0.5,Ethereum,"BTC, ETH, LTC, XRP",Yes,29,29
+146,CarVDB,Bulgaria,0.331,3139976,13805656,0.5,49978560.0,Yes,No,Unavailable,10,Unavailable,Unavailable,0.29148819662447306,Ethereum,ETH,Yes,71,18
+147,DeNet,Hong Kong,0.035,3000000,24500000,0.7,700000000.0,Yes,Yes,Available,3,Available,Available,0.035,Ethereum,"BTC, ETH, BCH, ETH",Yes,29,44
+148,MedChain,USA,0.43,3000000,15000000,0.49,34878000.0,Yes,Yes,Unavailable,1,Available,Unavailable,0.22,Hyperledger,"ETH, BTC, Fiat",Yes,30,123
+149,PAYERA,Singapore,0.05,8000000,60000000,0.7,1470000000.0,No,Yes,Unavailable,1,Available,Unavailable,0.035,Ethereum,"ETH, BTC, LTC, BCH",Yes,40,16
+150,Webcoin,Bulgaria,0.6667,346587,10037159,0.36,25000000.0,No,Yes,Unavailable,1,Unavailable,Unavailable,0.188292277727273,Ethereum,"BTC, ETH, DASH, DOGE, LTC, XMR, WAVES, ZEC, ETC",Yes,30,20
+151,Bitto Exchange,UK,1.0,282364,8470920,0.5381,12000000.0,Yes,No,Unavailable,1,Unavailable,Unavailable,0.5,Ethereum,"ETH, BTC, LTC, BCH",Yes,211,13
+152,Fair Ninja,Croatia,0.08,5000000,22400000,0.6,300000000.0,Yes,Yes,Unavailable,2,Available,Unavailable,0.064,Ethereum,ETH,Yes,31,15
+153,WOX,Estonia,0.048,1000000,12000000,0.25,250000000.0,Yes,Yes,Unavailable,2,Unavailable,Available,0.03,Ethereum,"BTC, ETH, TRX",Yes,29,59
+154,CryptoKami,Japan,0.0012,10000000,60360000,0.214,45000000.0,Yes,Yes,Unavailable,8,Available,Unavailable,0.55,CryptoKami,"ETH, BTC",Yes,30,28
+155,Viewo,Hong Kong,0.2,10000000,564062500,0.28,564062500.0,No,Yes,Unavailable,3,Available,Unavailable,0.16699999999999998,Ethereum,"ETH, BTC",Yes,365,30
+156,Further Network,UK,0.02,1000000,12500000,0.6,4200000000.0,Yes,Yes,Available,2,Unavailable,Unavailable,0.02,Stellar,"BTC, ETH, BCH, DASH, LTC, XLM, FIAT",Yes,28,42
+157,Hawk Network,Canada,0.0067,10000000,30000000,0.1,2000000000.0,Yes,Yes,Unavailable,2,Unavailable,Unavailable,0.01,Ethereum,ETH,Yes,59,15
+158,NGS (NEW GENERATION SECURITY),UK,0.1,5000000,30000000,0.7,14000000.0,Yes,No,Unavailable,1,Unavailable,Unavailable,0.01,Ethereum,"ETH, BTC",Yes,56,62
+159,TokenLend,Belize,0.28800000000000003,3636384,29818356,0.82,102500000.0,No,Yes,Unavailable,1,Available,Unavailable,0.3488800048,Ethereum,ETH,Yes,45,10
+160,Vector,USA,3.0,7567329,118050343,0.8,40000000.0,Not Specified,Not Specified,Unavailable,1,Unavailable,Unavailable,0.618140014,Ethereum,ETH,Yes,23,7
+161,Warrior Token,USA,95.7058,5000000,10000000,0.35,35000000.0,Yes,Yes,Unavailable,1,Unavailable,Unavailable,0.15,Ethereum,"BTC, ETH",Yes,30,60
+162,Tracoin,South Africa,0.6,5000000,12000000,0.67,20000000.0,Yes,No,Unavailable,1,Unavailable,Unavailable,0.4,Ethereum,"ETH, BTC",Yes,79,30
+163,WallChain,UK,1.0,3000000,9000000,0.6,9000000.0,No,Yes,Unavailable,2,Unavailable,Unavailable,0.9,Ethereum,ETH,Yes,20,29
+164,BmyBit,UK,2.4327,1639884,8625092,0.36,3600000.0,No,Yes,Unavailable,1,Available,Unavailable,1.74228104498193,MultiChain,BTC,Yes,45,111
+165,ARFREYR,India,0.025,5000000,30000000,0.51,3825000000.0,No,Yes,Unavailable,1,Unavailable,Unavailable,0.025,Ethereum,"ETH, BCH",Yes,119,90
+166,Find.Exchange,UK,0.4,3000000,33000000,0.56,112500000.0,Yes,Yes,Available,2,Available,Available,0.22,Ethereum,"ETH, BTC",Yes,30,14
+167,TokenGo,UK,0.44,60518701,151296753,0.86,600000000.0,Not Specified,Not Specified,Unavailable,1,Unavailable,Unavailable,0.27,Ethereum,ETH,Yes,100,30
+168,AMCHART,USA,1.0,15000000,100000000,0.95,115000000.0,Yes,Yes,Unavailable,1,Unavailable,Unavailable,0.75,Ethereum,"ETH, BTC, NEO, LTC",Yes,29,120
+169,Zantepay,Estonia,0.1162,10000000,600000000,0.3,600000000.0,No,Yes,Unavailable,2,Unavailable,Unavailable,0.05832945,Ethereum,ETH,Yes,91,122
+170,Bitsmo,Estonia,0.21,3000000,20000000,0.5,100000000.0,Yes,Yes,Unavailable,1,Unavailable,Available,0.15,Bitsmo,"ETH,BTC",Yes,81,81
+171,Flying Money,Hong Kong,1.0,2500000,35000000,0.56,65000000.0,No,Yes,Unavailable,1,Unavailable,Unavailable,0.5,Ethereum,"BTC, ETH",Yes,31,57
+172,Sapien Wallet,Ukraine,0.07035392,579804,1739412,1.0,1000000.0,Yes,No,Unavailable,1,Available,Unavailable,0.07005063,Ethereum,"ETH, nEUR",Yes,90,56
+173,VENOTY,Romania,0.5051,1117356,3352068,0.085,4000000.0,No,No,Unavailable,1,Available,Unavailable,0.3401205,Scrypt,"BTC, BCH, LTC, Dash, ETH",Yes,44,31
+174,xDAC,USA,0.2323,313636,4181820,0.2,20000000.0,No,No,Unavailable,1,Available,Unavailable,0.21,xDAC,ETH,Yes,61,46
+175,World Trip Singapore,Singapore,1.0,3000000,15000000,0.33,35000000.0,No,Yes,Unavailable,4,Unavailable,Available,0.5,Ethereum,"ETH, BTC",Yes,60,151
+176,Impresso,Switzerland,0.77,3000000,54000000,0.7672,76720000.0,Yes,Yes,Unavailable,4,Unavailable,Unavailable,0.64,Ethereum,"BTC, ETH, LTC, BCH, Fiat",Yes,13,13
+177,Modex,Gibraltar,0.8,10577066,10577066,1.0,13221333.0,No,Yes,Unavailable,3,Available,Available,0.4,Ethereum,"BTC, ETH, Various",Yes,10,90
+178,aassio,Hong Kong,0.1,6000000,10000000,0.5,500000000.0,Yes,Yes,Unavailable,47,Available,Available,0.1,Ethereum,ETH,Yes,60,105
+179,youengine,Seychelles,0.1,150000000,400000000,0.6,11000000000.0,Yes,Yes,Unavailable,22,Unavailable,Unavailable,0.085,Etherum,ETH,No,137,166
+180,BRIDGE,Romania,1.3,15000000,45000000,0.1,30000000.0,No,No,Unavailable,20,Unavailable,Unavailable,0.9,Stellar Protocol,"BTC, Fiat via Credit Card",Yes,90,16
+181,Cryptyk,USA,0.125,3000000,25000000,0.33,250000000.0,No,Yes,Unavailable,4,Available,Unavailable,0.1,Ethereum,"ETH, BTC, USD",Yes,72,288
+182,Decem,Slovenia,0.015,4000000,10350000,0.94,940000000.0,Yes,Yes,Unavailable,1,Unavailable,Available,0.01125,Ethereum,ETH,Yes,41,66
+183,Fieldcoin,UK,0.05,3000000,31000000,0.79,790000000.0,No,Yes,Unavailable,2,Available,Available,0.05,Ethereum,ETH,Yes,91,60
+184,LeoPays,Estonia,0.0882,845359,8453599,0.146,146000000.0,No,No,Unavailable,1,Available,Available,0.09613159800000001,Ethereum,"ETH, BTC, Fiat",Yes,56,55
+185,Nagricoin,Ireland,0.1,500000,22000000,0.82,300000000.0,Yes,Yes,Unavailable,2,Available,Available,0.05,Ethereum,"ETH, BTC",Yes,96,52
+186,Bitdepositary,Malta,0.1,1000000,50000000,0.63,750000000.0,Yes,Yes,Unavailable,6,Unavailable,Unavailable,0.05,Ethereum,"ETH, BTC, LTC, BCH, EOS, DASH, PAYPAL",Yes,77,28
+187,Diagon,Cyprus,0.2,1000000,4500000,0.75,30000000.0,Yes,No,Unavailable,1,Available,Available,0.12,Ethereum,"ETH, BTC",Yes,162,125
+188,CrowdShareMining,Thailand,1.0,2000000,7200000,0.72,7200000.0,No,No,Unavailable,1,Unavailable,Unavailable,1.0,Ethereum,"ETH, BTC, BCH, LTC",Yes,83,36
+189,DNAtix,Israel,0.8,1000000,45000000,0.53,80000000.0,Yes,Yes,Unavailable,3,Unavailable,Unavailable,0.4,Ethereum,"ETH, BTC",Yes,30,91
+190,Plosive,USA,8e-05,3000000,6000000,0.5,50000000000.0,No,No,Unavailable,1,Unavailable,Unavailable,8e-05,Ethereum,ETH,Yes,7,7
+191,Switcoin,Netherlands,0.01,30000000,60000000,0.7,70000000.0,No,Yes,Unavailable,1,Unavailable,Unavailable,0.01,Ethereum,"ETH, BTC",Yes,42,28
+192,Grow Token (GRWT),Philippines,0.0001,75527,176231,0.75,30000000.0,No,No,Unavailable,1,Unavailable,Available,0.00807870865,Ethereum,ETH,Yes,30,10
+193,HAI Project,Switzerland,0.21,2323007,10559124,0.8,80000000.0,No,Yes,Unavailable,2,Unavailable,Unavailable,0.2679696044,Ethereum,ETH,Yes,45,13
+194,MYDFS,Ireland,1.0,4000000,20000000,0.2,25000000.0,Yes,Yes,Available,3,Available,Available,0.7,Ethereum,"ETH, BTC",Yes,32,20
+195,Neurochain,France,0.11599999999999999,9247275,36989100,0.09,279257833.0,Yes,Yes,Unavailable,1,Unavailable,Unavailable,0.09918912,Neurochain,"BTC, ETH",Yes,27,20
+197,Signature Token,Austria,0.00149194443,1351201,9008008,0.56,5500000000.0,No,Yes,Unavailable,1,Unavailable,Unavailable,0.0014809538560000002,NEO,"NEO, ETH",Yes,56,30
+198,HuniBIT,South Korea,0.0021,1000000,2000000,0.525,21000000000.0,Yes,Yes,Unavailable,2,Unavailable,Unavailable,0.0019226319600000002,Ethereum,ETH,Yes,14,380
+199,IceBreakerAR,Canada,0.09,3000000,17900000,0.67,212500000.0,No,Yes,Unavailable,1,Available,Unavailable,0.09,Ethereum,"BTC, ETH, LTC, Fiat",Yes,31,13
+200,Teledactyl,USA,0.0105,10000000,25000000,0.7,700000000.0,Yes,No,Unavailable,1,Unavailable,Unavailable,3.7218662110800005,Waves,BTC,Yes,38,38
+201,Transmutecoin,Estonia,0.08900000000000001,10000000,98000000,0.7,1400000000.0,No,Yes,Unavailable,2,Available,Unavailable,0.07200000000000001,Ethereum,ETH,Yes,90,397
+202,AbacasXchange,Panama,1.4,2805000,32187500,0.55,30000000.0,No,Yes,Available,1,Available,Unavailable,0.98,Ethereum,"ETH, BTC",Yes,30,29
+203,Belotto,Belize,0.2,1000000,10000000,0.6,720000000.0,No,Yes,Unavailable,1,Available,Unavailable,0.14,Ethereum,ETH,Yes,91,5
+204,Bittrace,UK,0.8,10000000,65000000,0.625,125000000.0,Yes,Yes,Unavailable,1,Unavailable,Available,0.03333333,Ethereum,"ETH, BTC, LTC, BTH",Yes,135,41
+205,Blockhipo,Singapore,0.0004,86619,278419,0.6,1200000000.0,No,No,Unavailable,2,Available,Unavailable,0.000348002014,Ethereum,ETH,Yes,45,15
+206,EvoChain,USA,0.121,476682,36126299,0.94,303150000.0,No,Yes,Unavailable,1,Unavailable,Unavailable,0.092571251,Ethereum,ETH,Yes,38,27
+207,True Reply,USA,0.0369,5000000,20000000,0.4,200000000.0,No,No,Unavailable,1,Unavailable,Unavailable,0.02583840088,Ethereum,ETH,Yes,31,31
+208,Lead Wallet,Nigeria,0.04,3000000,15000000,0.4,400000000.0,No,No,Unavailable,1,Available,Unavailable,0.0368,Ethereum,ETH,Yes,29,1
+209,Si14,Switzerland,1.0,5000000,19200000,1.0,19200000.0,No,Yes,Unavailable,25,Unavailable,Unavailable,0.8,Ethereum,"USD, EUR, BTC, ETH, LTC, DASH, XMR, XRP, USDT",Yes,145,42
+210,NetworkUnits,Australia,1.19,2003389,10017549,0.55,15817083.0,Not Specified,Not Specified,Unavailable,1,Unavailable,Unavailable,4.089035035,Ethereum,ETH,Yes,31,28
+211,BuratinoBS,Latvia,0.1,3000000,18000000,0.9,225000000.0,No,No,Unavailable,1,Available,Available,0.07,Ethereum,"BTC, BCH, ETH, ETC, LTC, DASH",Yes,152,30
+212,Honeypod,USA,0.05,2000000,10000000,0.2,200000000.0,No,Yes,Unavailable,25,Available,Available,0.0375,Stellar,"BTC, ETH, XLM",Yes,30,19
+213,imusify,Estonia,0.05,1000000,25000000,0.65,65000000.0,Yes,Yes,Unavailable,6,Unavailable,Available,0.044000000000000004,NEO,"NEO, BTC , ETH, LTC, XMR, BCH, DASH",Yes,60,30
+214,AVINOC,Hong Kong,1.0,8000000,15000000,0.4,400000000.0,No,No,Unavailable,1,Available,Unavailable,0.035,Ethereum,"ETH, BTC, LTC, BCH, XMR, Fiat",Yes,16,25
+215,Hala,Estonia,0.1,200000,17000000,0.47,212000000.0,Yes,Yes,Available,4,Unavailable,Available,0.1,Ethereum,ETH,Yes,31,16
+216,Smart City Eco,Serbia,0.01,1200000,12000000,0.5,5000000000.0,No,No,Unavailable,1,Unavailable,Unavailable,0.01,Waves,"ETH, BTC, LTC",Yes,122,28
+217,Utile Network,Poland,0.12,2000000,10800000,0.5,100000000.0,No,No,Unavailable,1,Available,Available,0.08,Ethereum,ETH,Yes,59,40
+218,AISI Coin,Georgia,0.08,7535000,13700000,0.88,220000000.0,No,Yes,Unavailable,22,Available,Unavailable,0.02,Separate blockchain,"BTC, DASH, ETH, LTC, Fiat",Yes,63,31
+219,CONUN,Singapore,0.06,24000,52500000,0.25,17500000000.0,No,Yes,Unavailable,1,Unavailable,Unavailable,0.02,Ethereum,ETH,Yes,45,19
+220,HighBank,British Virgin Islands,1.0,5000000,40000000,0.4,40000000.0,No,Yes,Unavailable,1,Available,Unavailable,1.0,Ethereum,"ETH, BTC, LTC",Yes,121,27
+222,Verifier,Russia,0.1,2000000,12000000,0.27,120000000.0,Yes,Yes,Unavailable,1,Available,Available,0.1,Ethereum,ETH,Yes,30,344
+223,EUCX,Netherlands,0.0341,1244469,20741156,0.625,625000000.0,Yes,Yes,Unavailable,16,Unavailable,Unavailable,0.02523609,Ethereum,ETH,Yes,61,60
+224,TOXIC,UK,0.2,1250000,1800000,0.875,7000000.0,No,Yes,Unavailable,39,Unavailable,Available,0.1,Ethereum,"ETH, BTC, BCH, LTC",Yes,61,155
+225,Streamex,Hong Kong,0.08,4000000,11200000,0.48,240000000.0,Yes,Yes,Unavailable,4,Unavailable,Available,0.06,Ethereum,"ETH, BTC",Yes,30,20
+227,Atisios,France,0.0095,943549,15096785,0.69,1380000000.0,No,No,Unavailable,1,Available,Unavailable,0.005966159820000001,Ethereum,ETH,Yes,89,29
+228,BILLCRYPT,Gibraltar,1.0,10000000,80000000,0.44,152000000.0,No,No,Unavailable,1,Available,Available,0.5,Ethereum,"ETH, BTC, BCH, LTC, USDT, DASH",Yes,295,229
+229,ECOS,Estonia,0.1,1000000,7700000,0.5,385000000.0,No,Yes,Available,1,Available,Unavailable,0.1,Ethereum,"ETH, BTC",Yes,49,59
+230,BrandProtect,Ukraine,0.65,520000,1365000,0.07,15000000.0,No,No,Unavailable,1,Available,Available,0.5,Ethereum,"ETH, BTC, EOS, TRX, USD, EUR",Yes,34,210
+231,CoTrader,Saint Kitts and Nevis,1.18635559e-05,38053,114160,0.65,14000000000.0,No,No,Unavailable,1,Available,Available,4.66540009e-05,Ethereum,"ETH, BTC, LTC, BCH",Yes,16,335
+232,SBC Platform,Switzerland,3.8129,3500000,11000000,0.6,12013889.0,Not Specified,Yes,Unavailable,1,Available,Unavailable,0.13,Ethereum,ETH,Yes,223,1
+233,Future1Coin,Singapore,0.09,500000,2000000,0.84,250000000.0,Not Specified,Not Specified,Unavailable,1,Unavailable,Unavailable,0.045,Ethereum,"BTC, ETH, Fiat",Yes,31,164
+234,MeeTip,France,1.13,50000,30000000,0.9,27000000.0,Not Specified,Not Specified,Unavailable,1,Unavailable,Unavailable,0.339678887777778,Ethereum,ETH,Yes,28,7
+235,BrainerZ,Israel,0.01,500000,12000000,0.6,1200000000.0,No,Yes,Unavailable,1,Available,Available,0.01,Ethereum,"ETH, BTC",Yes,62,14
+236,DIPChain,Singapore,0.022133342,1308300,7413701,0.35,350000000.0,Yes,Yes,Unavailable,2,Available,Unavailable,0.023059510863,Ethereum,ETH,Yes,63,30
+237,Hurify,Canada,0.158,8551989,21379974,0.6,151250000.0,No,Yes,Unavailable,1,Unavailable,Unavailable,0.0912597330666667,Ethereum,"BTC, LTC, DASH, ETH, BTG, BCH",Yes,27,6
+238,LOVE Air Coffee,Ukraine,0.1107175,2281527,46460190,0.125,125000000.0,No,Yes,Unavailable,2,Available,Available,0.05604815,Ethereum,ETH,Yes,30,17
+239,Minery,Russia,1.0,15000000,55000000,0.87,47850000.0,No,Yes,Unavailable,1,Unavailable,Unavailable,1.0,Ethereum,"ETH, BTC, Fiat",Yes,91,107
+240,TriipMiles,Singapore,0.018044940433470002,250000,2475000,0.33,165000000.0,Yes,Yes,Unavailable,4,Available,Available,0.015,Ethereum,"ETH, TOMO, BTC, Fiat",Yes,34,20
+241,AgroTechFarm,Cyprus,2.7677,372556,9313920,0.65,5000000.0,Yes,No,Unavailable,1,Available,Available,4.970916132,Ethereum,ETH,Yes,69,53
+242,Hybrid Betting,UK,0.22,5000000,7000000,0.55,50000000.0,Yes,No,Unavailable,7,Unavailable,Unavailable,0.18,Ethereum,ETH,Yes,62,66
+243,Raido Financial,Belize,0.0957,915752,6442260,0.7,60262500.0,Yes,Yes,Unavailable,5,Available,Available,0.180806,Ethereum,"ETH, BTC, LTC, DASH",Yes,31,30
+244,Render It Coin,Ireland,11.6212,5696385,28481925,0.8,4000000.0,No,No,Unavailable,1,Unavailable,Unavailable,2.9161650000000003,Ethereum,"BTC, ETH, Fiat",Yes,90,30
+245,Sapien,USA,0.1417,50000000,12506790,0.45,215000000.0,Not Specified,Not Specified,Unavailable,1,Available,Unavailable,0.186385009833333,Ethereum,"ETH, BTC",Yes,31,15
+246,Swipecrypto,Singapore,0.0048,480000,1800000,0.25,375000000.0,No,No,Unavailable,2,Unavailable,Unavailable,0.0048,Ethereum,"BTC, ETH, USDT, TEN, IDR",Yes,13,18
+247,Export.Online,Russia,1.0,5000000,20000000,0.843,36547525.0,Not Specified,Not Specified,Unavailable,1,Unavailable,Unavailable,0.8,Ethereum,ETH,Yes,30,11
+248,GigTricks,Gibraltar,0.248,2500000,35000000,0.25,250000000.0,No,Yes,Unavailable,4,Available,Available,0.124,Ethereum,"ETH, BTC, Fiat",Yes,121,29
+249,Iconic Ecosystem,Brazil,0.018000000000000002,106864,8144794,0.85,425000000.0,Yes,Yes,Unavailable,1,Unavailable,Unavailable,0.0269814255031343,Ethereum,ETH,Yes,30,12
+250,Kryptobits,Spain,0.1181698,4617340,115433500,0.78,1124760000.0,Yes,Yes,Available,1,Unavailable,Unavailable,0.0585028,Ethereum,"ETH, BTC, LTC, BCH, XRP, Fiat",Yes,99,19
+251,Matchroom,Hong Kong,0.0143836239058824,1500000,10000000,0.5,500000000.0,No,No,Available,2,Available,Unavailable,0.011064326081447999,Ethereum,ETH,Yes,61,15
+252,Solve.Care,Estonia,0.1,3000000,20000000,0.35,350000000.0,No,Yes,Unavailable,1,Unavailable,Unavailable,0.085,Ethereum,"BTC, ETH",Yes,31,66
+253,Superbloom,Cayman Islands,0.1,5000000,29000000,0.55,290000000.0,Yes,Yes,Available,1,Available,Available,0.1,Ethereum,ETH,Yes,7,28
+254,R-Bit,Norway,0.7,1000000,15000000,0.75,150000000.0,No,Yes,Unavailable,1,Unavailable,Unavailable,0.05,Ethereum,ETH,Yes,60,36
+255,Miner Edge,Anguilla,0.8,1000000,32000000,0.7,42000000.0,No,Yes,Unavailable,2,Available,Unavailable,0.6,Ethereum,"ETH, BTC",Yes,204,29
+256,Rateonium,Macedonia,0.0376,6992160,18405550,0.83,665414296.0,Yes,Yes,Unavailable,8,Unavailable,Unavailable,0.033268509183,Ethereum,ETH,Yes,31,16
+257,Yumerium,British Virgin Islands,0.07200000000000001,3000000,20000000,0.39,316906850.0,Yes,Yes,Unavailable,2,Available,Available,0.07,Ethereum,"ETH, BTC",Yes,14,48
+258,AMICORUM.LIVE,Estonia,0.5,3000000,20000000,0.8,40000000.0,Yes,No,Available,6,Available,Unavailable,0.5,Ethereum,"ETH, BTC, LTC, BCH",Yes,60,121
+259,Flas Exchange,UK,0.03,500000,2500000,0.6,300000000.0,Yes,No,Unavailable,43,Available,Available,0.025,Ethereum,ETH,Yes,30,61
+260,SRT,Estonia,1.0,500000,5000000,0.62,62000000.0,Yes,No,Unavailable,2,Unavailable,Available,0.5,Ethereum,"ETH, BTC, LTC, BCH, DASH",Yes,365,8
+261,Usechain,Singapore,0.0052,5729899,17189699,0.45,9000000000.0,Yes,Yes,Unavailable,2,Available,Available,0.00472493011,Ethereum,"ETH, BTC",Yes,5,13
+263,Brain Space,Russia,0.08,14526000,72630000,0.53,1431000000.0,No,Yes,Unavailable,3,Available,Available,0.03,Ethereum,"ETH, BTC",Yes,27,27
+264,Cryptoprofile,Singapore,0.1,1162556,30463808,0.78,591474747.0,Yes,Yes,Unavailable,7,Available,Unavailable,0.05,Ethereum,ETH,Yes,27,30
+265,Ekspa,Russia,0.4,400000,9700000,0.49,24500000.0,No,No,Unavailable,1,Unavailable,Unavailable,0.2,Ethereum,ETH,Yes,30,12
+266,Mix Rent,Ireland,0.006,1000000,17000000,0.52,52000000.0,No,Yes,Unavailable,1,Unavailable,Available,0.20171455781,Ethereum,"BTC, ETH, XMR, XRP",Yes,7,10
+267,SGAT,France,1.1434,1714657,7430182,0.65,7800000.0,No,Yes,Unavailable,3,Available,Available,1.134636,CryptoNight,"BTC, ETH, EUR",Yes,52,152
+268,BigBang,Estonia,0.0319,1000000,25000000,0.2,100000000.0,No,Yes,Unavailable,2,Unavailable,Unavailable,0.07102625275,Ethereum,"ETH, BTC",Yes,60,89
+269,FRESCO,Switzerland,0.102,7975530,42536162,0.6,500000000.0,Yes,Yes,Unavailable,5,Unavailable,Unavailable,0.0940467716923077,Ethereum,ETH,Yes,25,5
+270,GPM Carbon,Czech Republic,0.3,3000000,27000000,0.8,144000000.0,No,No,Unavailable,80,Available,Available,0.15,BITCOIN,"ETH, BTC",Yes,289,121
+271,Signals,Czech Republic,0.3627,2000000,18500000,0.5,75000000.0,No,Yes,Unavailable,2,Available,Unavailable,0.253874,Ethereum,ETH,Yes,49,39
+272,Swachhcoin,India,0.07200000000000001,5000000,15000000,0.69,214099889.0,No,Yes,Unavailable,1,Available,Unavailable,0.0473,Ethereum,"BTC, ETH, XPR, LTC",Yes,87,28
+273,3DChain,USA,0.0479,29069,7675768,0.6,60000000.0,Yes,No,Unavailable,1,Available,Available,0.046619817,Ethereum,ETH,Yes,149,120
+275,Game Protocol,Malta,0.132581329333333,3000000,30000000,0.58,87000000.0,Yes,Yes,Available,2,Unavailable,Available,0.11048444111111098,Ethereum,"ETH, BTC",Yes,29,31
+277,SmartCity,Croatia,0.0555,396457,4559255,0.9,80000000.0,Not Specified,Not Specified,Unavailable,1,Unavailable,Unavailable,0.22468174678260897,Ethereum,ETH,Yes,58,16
+278,V-ID,Netherlands,0.4,1000000,8000000,0.5,50000000.0,Yes,Yes,Unavailable,8,Available,Available,0.08,Ethereum,"ETH, BTC, EUR",Yes,66,29
+279,Bronix,Australia,0.35,5000000,30000000,0.8,175000000.0,Yes,Yes,Unavailable,1,Unavailable,Unavailable,0.35,Ethereum,"BTC, ETH, XRP",No,99,30
+280,Lamoneda,Netherlands,0.0195,2000000,10000000,0.72,362500000.0,No,Yes,Unavailable,1,Unavailable,Unavailable,0.024550199900000003,Ethereum,"ETH, BTC, LTC, Fiat",Yes,48,21
+281,Rise Housing,Bahamas,0.01,9078359,18156719,0.3,100000000.0,No,Yes,Unavailable,4,Available,Unavailable,0.008333333333000001,Ethereum,ETH,Yes,30,45
+282,Memority,Estonia,0.1,5000000,85500000,0.57,855000000.0,No,Yes,Unavailable,11,Available,Available,0.1,Ethereum,"ETH, BTC, LTC, BCH, Fiat",Yes,183,15
+283,Tripago,UK,0.036000000000000004,2249250,11246250,0.4,400000000.0,No,No,Unavailable,1,Available,Unavailable,0.024151561749999998,Ethereum,"ETH, BTC, LTC, BCH",Yes,58,18
+284,Datarius,Costa Rica,1.0,1000000,51000000,0.73,200000000.0,No,Yes,Unavailable,1,Available,Unavailable,1.0,Ethereum,"ETH, BTC, BCC, LTC, Fiat",Yes,31,19
+285,OPP Open WiFi,UK,0.4,4000000,40000000,0.0355,142000000.0,Yes,Yes,Unavailable,1,Available,Available,0.24,Ethereum,"BTC, ETH, Fiat",Yes,154,31
+286,CAXI,UK,1.1308,33915180,113050600,0.7,7000000000.0,Yes,Yes,Unavailable,7,Unavailable,Unavailable,0.6846264,Ethereum,"ETH, BTC, BCH, LTC, ZCH, XMR, DASH",Yes,31,67
+287,Moneda,Austria,0.0864,10000000,250000000,0.675,250000000.0,No,No,Unavailable,1,Available,Unavailable,0.0587343705185185,Ethereum,ETH,Yes,61,30
+288,Spacoin,Cambodia,0.087,4595003,18380015,0.53,80000000.0,Not Specified,Not Specified,Unavailable,1,Unavailable,Unavailable,0.07022759766,Ethereum,"ETH, BTC",Yes,13,6
+289,AQUA,USA,0.18,5000000,30000000,0.45,225000000.0,No,Yes,Unavailable,1,Available,Available,0.09,Ethereum,ETH,Yes,5,90
+291,Incodium,Singapore,0.0093,100000000,1500000000,0.3,3000000000.0,No,No,Unavailable,1,Unavailable,Unavailable,0.01450107575,Ethereum,ETH,Yes,41,29
+293,eCoinomic,Estonia,0.05,6000000,106000000,0.74,1550000000.0,Yes,Yes,Unavailable,3,Available,Unavailable,0.05,Ethereum,"ETH, BTC, XRP, BCH, LTC, NEO, XMR, ZEC",Yes,115,18
+294,Airbloc,Singapore,0.040999999999999995,3052063,8720180,0.55,221450000.0,Yes,Yes,Unavailable,4,Unavailable,Available,0.0608019117391304,Ethereum,ETH,Yes,10,8
+295,Edgecoin,Germany,0.077,370285,2962280,0.4,40000000.0,No,Yes,Unavailable,2,Unavailable,Unavailable,0.0298891998,Ethereum,ETH,Yes,90,30
+296,Let Bet,Belize,1.5,3000000,84000000,0.5,99000000.0,Not Specified,Not Specified,Unavailable,1,Unavailable,Unavailable,1.15,Ethereum,"ETH, BTC",Yes,39,25
+297,ReporterCommunity,Hungary,0.114,2599402,5198805,0.6,36000000.0,Yes,No,Unavailable,1,Unavailable,Unavailable,0.0651838971869829,Ethereum,"ETH, XEM, XRP",No,120,101
+298,Canyudo,UK,0.1,250000,200000000,0.5,5000000000.0,No,Yes,Unavailable,1,Unavailable,Available,0.1,Ethereum,ETH,Yes,91,27
+299,Guarium,UK,0.94,324332,12162452,0.4,14000000000.0,Yes,No,Unavailable,1,Unavailable,Unavailable,0.01,Ethereum,"BTC, ETH, Fiat",Yes,288,86
+300,MedK - Medical Cannabis,UK,0.05,147000,35000000,0.6,550000000.0,Yes,Yes,Unavailable,1,Unavailable,Unavailable,0.05,Ethereum,"BTC, ETH, XRP, BCH, Fiat",Yes,144,52
+301,Developeo,UK,0.4,50000000,480000000,0.8,480000000.0,No,Yes,Unavailable,1,Available,Unavailable,0.2,Ethereum,"ETH, BTC, LTC, XRP, BCH, BCN, DASH, DGB, DOGE, ETC, KMD, MAID, NEO, NXS, OMNI, POT, QTUM, SBD, STEEM, STRAT, SYS, USDT, VTC, WAVES, XCP, XEM, XMR, XVG, XZC, ZEC",Yes,41,45
+302,Gyptex,Hong Kong,0.0096,1144047,3813492,0.6,445084980.0,Yes,Yes,Unavailable,1,Unavailable,Unavailable,0.01303134495,Ethereum,ETH,Yes,46,35
+304,Local Token Exchange,Spain,0.2916,1143105,22280145,0.58,44660000.0,Yes,Yes,Unavailable,1,Unavailable,Unavailable,0.14637175,Ethereum,ETH,Yes,121,31
+305,MUST Protocol,Estonia,0.04,6700000,14000000,0.7,350000000.0,Yes,Yes,Unavailable,1,Unavailable,Unavailable,0.04,Ethereum,"BTC, ETH, Fiat",Yes,425,60
+306,NWPSolution,Estonia,0.05,300000,700000,0.5,500000000.0,Yes,Yes,Available,1,Available,Available,0.01,Ethereum,"BTC, ETH, LTC, Dash",Yes,122,46
+307,WhatsOnPic,Australia,2.3926,1821250,21987500,0.7,5050000.0,No,Yes,Unavailable,2,Available,Available,22.89382275,Ethereum,"ETH, BTC",Yes,86,81
+308,Auctus,British Virgin Islands,0.28300000000000003,1634000,2850000,0.51,54060000.0,Yes,Yes,Unavailable,4,Unavailable,Unavailable,0.1169852052,Ethereum,ETH,Yes,10,3
+309,EZPOS,Singapore,1.2,2000000,10000000,0.2,10000000.0,Yes,Yes,Unavailable,2,Unavailable,Unavailable,0.6,Ethereum,"BTC, ETH",Yes,12,24
+310,0xcert,Slovenia,0.0497,2402565,9610260,0.5,250000000.0,Yes,Yes,Unavailable,4,Available,Available,0.04205861937,Ethereum,ETH,Yes,14,2
+311,BuzzShow,Netherlands,0.5,250000,20000000,0.62,93000000.0,No,Yes,Unavailable,1,Available,Unavailable,0.25,Ethereum,"ETH, ETC, BTC, BCH, LTC, DASH, XRP, XMR",Yes,426,30
+312,Zeon Network,Germany,0.0005,2000000,15000000,0.6,30000000000.0,No,No,Unavailable,1,Available,Available,0.0005,Custom,"USD, USDT, BTC, ETH",Yes,366,31
+314,Kryptoin,Cayman Islands,35.4408,3896420,15597006,0.6,1078825.0,Yes,Yes,Available,1,Available,Available,29.534100300000002,Ethereum,ETH,Yes,181,123
+315,RedFund,Mexico,0.2749,2751969,55039398,0.75,165000000.0,No,No,Unavailable,1,Unavailable,Unavailable,0.3782649991666671,Ethereum,ETH,Yes,14,41
+316,Trimpo,USA,0.705910035,994359,5966159,0.6,500000000.0,No,No,Available,1,Unavailable,Available,1.124625015,Ethereum,"ETH, BTC",Yes,78,61
+317,WolfpackBOT,Bahamas,0.15,300000,56000000,0.8,240000000.0,No,Yes,Unavailable,4,Available,Available,0.1,X11,"ETH, BTC, LTC, DASH, DOGE",Yes,348,61
+318,CWEX,Switzerland,0.2,1000000,10000000,0.62,55180000.0,Yes,No,Available,1,Available,Available,0.16,EOS,"EOS, ETH, BTC, LTC",Yes,70,25
+319,Digmus,Russia,4.427,500000,10000000,0.7,7000000.0,Not Specified,Not Specified,Unavailable,1,Unavailable,Unavailable,1.01378662,Ethereum,"BTC, ETH",Yes,30,7
+320,WisePass,Singapore,0.0362,334175,5012639,0.25,250000000.0,Yes,Yes,Unavailable,2,Unavailable,Available,0.0606064148333333,Ethereum,ETH,Yes,61,31
+321,Morpheus Network,Seychelles,0.5,1800000,18000000,0.52,52000000.0,No,Yes,Unavailable,11,Available,Unavailable,0.5,Ethereum,ETH,Yes,31,15
+322,Sharpay,Belize,0.017,3000000,25994025,0.375,1500000000.0,Yes,Yes,Unavailable,1,Available,Available,0.01545407958,Ethereum,"ETH, BTC, LTC, BCH, Dash",Yes,91,62
+323,FXPay,UK,1.6,15000000,17764289,0.4,200000000.0,Yes,Yes,Unavailable,1,Unavailable,Unavailable,1.1499999762,Ethereum,"ETH, BTC",Yes,91,91
+324,Maester Protocol,Estonia,0.1,10000000,300000000,0.3,300000000.0,Yes,No,Unavailable,1,Unavailable,Available,0.1,Ethereum,"BTC, ETH, LTC, XRP",Yes,46,43
+325,Divider,Netherlands,0.12,5000000,20000000,0.8,48000000.0,Yes,Yes,Unavailable,1,Available,Unavailable,0.08,Ethereum,ETH,No,106,14
+326,Block66,Singapore,0.1,3000000,12285000,0.45,135000000.0,No,Yes,Available,4,Available,Unavailable,0.07,Ethereum,"ETH, BTC, BCH",Yes,30,13
+327,MARK.SPACE,Singapore,0.1,12827984,256559692,0.4,885000000.0,Not Specified,Not Specified,Unavailable,1,Available,Available,0.1,Ethereum,"ETH, BTC, Fiat",Yes,36,57
+328,ECONEUARK,Russia,21.2745483,26162638,1308131928,0.64,5500000.0,No,No,Unavailable,1,Unavailable,Unavailable,10.613557425,Ethereum,ETH,Yes,90,30
+329,Scruge,Russia,0.012,120000,240000,0.08,20000000.0,No,Yes,Unavailable,1,Unavailable,Available,0.006,EOS,EOS,Yes,60,59
+330,StopTheFakes,Czech Republic,0.23,675000,8500000,0.7,20271000.0,Yes,Yes,Unavailable,2,Available,Unavailable,0.4373249816666671,Ethereum,"ETH, BTC",Yes,31,19
+331,TTC PROTOCOL,British Virgin Islands,0.175,20831010,17359175,0.25,250000000.0,No,Yes,Unavailable,2,Available,Unavailable,0.1399661988,Ethereum,ETH,Yes,30,3
+332,VTUUR,Estonia,0.25,468430,46843005,0.5,500000000.0,No,Yes,Unavailable,1,Available,Available,0.25,Ethereum,"ETH, BTC, Fiat",Yes,181,31
+333,YOUnited,Singapore,0.01,2400000,9700000,0.7,1470000000.0,Yes,Yes,Unavailable,6,Unavailable,Available,0.01,Graphene,"BTC, ETH, LTC",Yes,153,139
+334,Celsius,USA,0.2,15000000,50000000,0.5,325000000.0,Yes,Yes,Unavailable,4,Unavailable,Unavailable,0.2,Ethereum,"ETH, BTC, USD",Yes,7,142
+335,Filotech,Singapore,0.05,10000000,200000000,0.55,550000000.0,Yes,No,Unavailable,1,Unavailable,Unavailable,0.05,Ethereum,"BTC, BCH, ETH, LTC",Yes,60,30
+336,Swapy Network,Cayman Islands,0.65,5000000,30000000,0.5,50000000.0,Yes,Yes,Unavailable,3,Available,Available,0.575,Ethereum,ETH,Yes,30,31
+337,The Government Network,Belize,0.64,3000000,45000000,0.7,87500000.0,No,Yes,Unavailable,2,Unavailable,Unavailable,0.44799999999999995,Ethereum,"ETH, BTC",Yes,29,30
+338,Zenome,Russia,0.6667,350000,1150000,0.45,6000000.0,No,Yes,Unavailable,1,Unavailable,Unavailable,0.3,Ethereum,"ETH, BTC",Yes,31,7
+339,iCumulate,Gibraltar,0.01,2500000,23500000,0.5,2350000000.0,No,Yes,Unavailable,2,Available,Available,0.01,Ethereum,ETH,Yes,21,7
+340,Dysnomia,Taiwan,0.043,142203,474011,0.8,44000000.0,No,No,Unavailable,1,Unavailable,Unavailable,0.0332105000833333,Ethereum,ETH,Yes,30,30
+341,Giftz.io,USA,10.0,50000000,12000000,0.5,60000000.0,No,No,Unavailable,1,Available,Unavailable,0.4,Ethereum,"ETH, BTC",Yes,91,19
+342,Bitmart,Cayman Islands,0.01,12919200,38757601,0.3,300000000.0,Not Specified,Not Specified,Unavailable,1,Unavailable,Unavailable,0.0653988203636364,Ethereum,ETH,Yes,19,5
+343,Sarf,Belize,0.015,2000000,10600000,0.375,750000000.0,No,No,Unavailable,1,Available,Available,0.01,Ethereum,"ETH, BTC, LTC, Dash, XRP",Yes,32,21
+344,Fatum,Hong Kong,9.5706,1114005,4388508,0.6,412500000.0,Yes,Yes,Unavailable,1,Unavailable,Unavailable,0.009738569339233479,Ethereum,ETH,Yes,38,35
+345,Game Stars,Seychelles,0.035,2000000,7500000,0.65,325000000.0,No,No,Unavailable,2,Available,Available,0.035,Ethereum,"ETH, BTC",Yes,60,7
+346,Node,Latvia,1.0,1000000,10000000,0.55,9250000.0,Not Specified,Not Specified,Unavailable,1,Available,Unavailable,1.0,Ethereum,"ETH, BTC",Yes,59,31
+347,DeFund Project,Italy,0.006,510847,2554695,0.9,450000000.0,No,No,Unavailable,1,Unavailable,Unavailable,0.00906901867924528,Ethereum,ETH,Yes,30,15
+348,EBCoin,Singapore,0.043,150000000,600000000,0.5,750000000.0,Not Specified,Not Specified,Unavailable,1,Unavailable,Unavailable,0.012591535942028999,Ethereum,ETH,Yes,28,31
+349,Filmgrid,Mexico,0.072530210853,13000000,21000000,0.8,800000000.0,Yes,No,Unavailable,1,Unavailable,Unavailable,0.041697038046,Ethereum,ETH,Yes,396,30
+350,Inmediate,Singapore,0.04,4000000,16000000,0.4,400000000.0,Yes,Yes,Unavailable,2,Unavailable,Unavailable,0.04,Zilliqa,"BTC, ETH",Yes,19,7
+351,Seal,Netherlands,0.7,3000000,33000000,0.41,492000000.0,No,Yes,Unavailable,2,Unavailable,Unavailable,0.08,Ethereum,ETH,Yes,14,27
+352,Zodiaq,Russia,0.2,1500000,24535000,0.8,240000000.0,Yes,Yes,Unavailable,5,Available,Available,0.1,Ethereum,"BTC , ETH",Yes,30,33
+353,Blupass ICO,USA,0.0118,500000,25000000,0.6,4000000000.0,Yes,Yes,Unavailable,1,Available,Unavailable,0.0354435486,Ethereum,ETH,Yes,138,30
+354,CGCX,Singapore,0.051,5000000,1000000000,0.5,1000000000.0,Yes,Yes,Unavailable,13,Available,Unavailable,0.0792485854117647,Ethereum,"ETH, BTC",Yes,59,24
+355,Carnomaly,USA,0.25,7500000,35000000,0.55,530000000.0,No,Yes,Unavailable,1,Available,Unavailable,0.15,Ethereum,"BTC, ETH, LTC, XRP, USTD, BCH",Yes,30,30
+356,Decibels,USA,0.15,2269589,10235850,0.6,30000000.0,No,Yes,Unavailable,1,Available,Unavailable,0.05,Ethereum,"ETH, Various",Yes,115,7
+357,Digitize,Australia,0.1435,407751,13591719,0.6,200000000.0,Yes,Yes,Unavailable,1,Available,Unavailable,0.0740570008,Ethereum,ETH,Yes,7,7
+358,Flexion,Singapore,0.05,900000,5400000,0.53,170000000.0,No,No,Unavailable,1,Unavailable,Unavailable,0.025,Ethereum,"ETH, BTC",Yes,60,36
+359,LUNOX TOKEN,Indonesia,0.0001,43117,431174,0.625,2500000000.0,No,No,Unavailable,1,Available,Unavailable,0.000293641113,Ethereum,ETH,Yes,54,6
+360,Ubcoin Market,United Arab Emirates,0.0343,571205,8282486,0.5,325000000.0,No,No,Unavailable,1,Available,Unavailable,0.028882251,Ethereum,ETH,Yes,147,82
+361,Baanx.com,UK,0.125,1000000,36850000,0.56,700000000.0,Yes,Yes,Unavailable,2,Unavailable,Unavailable,0.0799999982,Ethereum,"ETH, BTC, BCH, Fiat",Yes,60,48
+362,CDRX,Singapore,0.5,5000000,100000000,0.5,200000000.0,Yes,Yes,Unavailable,2,Available,Available,0.5,Ethereum,"BTC, ETH, Fiat",Yes,34,14
+363,CRYPTO TRON EXCHANGE AND SHOP,Thailand,10.0,3000000,30000000,0.8,5600000.0,No,Yes,Unavailable,1,Unavailable,Unavailable,7.0,TRON,"USD, EUR, THB, BTC, TRX, ETH",No,61,75
+365,BGX,Switzerland,0.1,4000000,50000000,0.5,500000000.0,Yes,Yes,Unavailable,2,Available,Available,0.07,Ethereum,"ETH, BTC, LTC, Fiat",Yes,28,6
+367,carboneum,Singapore,0.1,1200000,12000000,0.6,120000000.0,Yes,Yes,Unavailable,2,Available,Unavailable,0.1,Ethereum,ETH,Yes,12,45
+368,Clarity,UK,214.2881,907013,23582353,0.75,120000000.0,Yes,Yes,Unavailable,3,Available,Unavailable,0.08,Ethereum,"ETH, LTC, BTC, BCH",Yes,378,63
+370,Pool of Stake,Switzerland,0.348,2327476,9309904,0.7609999999999999,53245907.0,No,Yes,Unavailable,7,Available,Available,0.2551109,Ethereum,ETH,Yes,72,32
+371,Presale Ventures,Israel,0.2988,366098,3660981,0.6,24000000.0,No,No,Unavailable,4,Available,Available,0.317867036263736,Ethereum,ETH,Yes,61,121
+372,4ARTechnologies,Switzerland,0.3499,16845030,280750500,0.2623,1704900000.0,Yes,Yes,Unavailable,1,Unavailable,Unavailable,0.23419479999999998,Ethereum,"ETH, BTC, Fiat",Yes,211,53
+373,Coinstantine,Netherlands,0.25,610158,9152381,0.9,100000000.0,No,No,Unavailable,1,Available,Available,0.14354441692307698,Ethereum,"ETH, BNB",Yes,60,45
+374,FortFC,Russia,0.2259,2231594,27894925,0.77,231000000.0,Yes,Yes,Unavailable,1,Available,Available,0.1132503,Ethereum,"BTC, ETH, Fiat",Yes,165,95
+375,Bitsive Exchange,USA,1.58,500000,10000000,0.89,89000000.0,Yes,No,Unavailable,1,Unavailable,Unavailable,0.79,Ethereum,"BTC, ETH",Yes,154,52
+376,Investa,UK,1.0,1000000,30000000,0.6,30000000.0,No,Yes,Unavailable,1,Available,Available,0.4,Ethereum,"BTC, ETH, LTC, Fiat",Yes,61,60
+377,Sportco,Cyprus,0.05,150000,24000000,0.5,500000000.0,No,Yes,Unavailable,1,Unavailable,Unavailable,0.04,Ethereum,ETH,Yes,30,56
+378,TravelBlock,Canada,0.14,4500000,28200000,0.4,600000000.0,No,No,Unavailable,2,Unavailable,Unavailable,0.115,Ethereum,ETH,Yes,30,42
+379,Cremit,Poland,0.75,90000000,8500000,0.4,84000000.0,No,No,Unavailable,2,Unavailable,Unavailable,0.3,Ethereum,BTC,Yes,241,138
+380,Ophelius Labs,USA,0.35,350000,15000000,0.21,42857143.0,Yes,Yes,Unavailable,13,Unavailable,Unavailable,0.35,Ethereum,"ETH, USD",Yes,198,16
+381,iOlite,Estonia,0.0221,1000000,12500000,0.65,650000000.0,Yes,Yes,Unavailable,9,Available,Unavailable,0.01768,iOlite Blockchain,ETH,Yes,19,21
+382,CoinFast,Turkey,0.14,250000,1000000,0.57,70000000.0,Yes,No,Unavailable,1,Available,Available,0.07,Ethereum,"BTC, ETH, LTC, DASH",Yes,30,60
+383,DENcoin,Nigeria,0.01,3000000,1000000,0.4,20000000.0,Yes,Yes,Unavailable,1,Available,Available,0.09,Ethereum,ETH,Yes,29,30
+384,MyTVchain,France,0.067,1000000,10000000,0.11,400000000.0,Yes,Yes,Unavailable,1,Available,Available,0.005,Ethereum,"BTC, ETH, LTC, DASH, USD, EUR",Yes,27,13
+385,The Silverlink Network,Singapore,0.7459900359999999,461951,2309757,0.22,2000000.0,No,Yes,Unavailable,1,Unavailable,Unavailable,1.3050104355,Ethereum,ETH,Yes,60,62
+386,Carna Life,UK,0.03,2000000,50000000,0.48,4800000000.0,No,Yes,Unavailable,2,Unavailable,Available,0.02,Ethereum,"ETH, BTC",Yes,58,31
+387,Gturbo,Russia,0.05,5000000,30000000,0.92,416000000.0,Yes,Yes,Unavailable,9,Unavailable,Available,0.05,Ethereum,"BTC, ETH",Yes,30,14
+388,Negexc,Indonesia,0.001,780770,2603086,0.47,1551000000.0,No,No,Unavailable,2,Available,Unavailable,0.001466707610555,Ethereum,"ETH, BTC",Yes,91,10
+389,Truefeedback,Turkey,0.0002,200000,770000,0.31,3100000000.0,No,No,Unavailable,12,Unavailable,Available,0.00015,Ethereum,ETH,Yes,10,14
+390,WeevoCity,Bulgaria,0.046,200000000,500000000,0.45,49500000.0,No,No,Unavailable,1,Unavailable,Unavailable,0.02449754945,Ethereum,"ETH, BTC, Fiat",Yes,60,30
+391,Bayan Token,Singapore,0.8,10000000,35000000,0.89,178000000.0,No,Yes,Unavailable,1,Available,Unavailable,0.7,Ethereum,"BTC, BCH, DASH, ETH, LTC, XRP",Yes,122,49
+392,Matrix-coin,France,0.01,3000000,27000000,0.21,2000000000.0,No,No,Unavailable,3,Unavailable,Unavailable,0.006999999999999999,X11 blockchain,"BTC , ETH , LTC , DOGE",Yes,29,26
+393,Tradove B2BCoin,USA,0.16,2000000,52000000,0.15,500000000.0,Not Specified,Not Specified,Unavailable,1,Unavailable,Unavailable,0.12,Ethereum,"BTC, ETH, Fiat",No,27,98
+394,ELPIS,Switzerland,0.08,1000000,10000000,0.78,195000000.0,Yes,Yes,Unavailable,2,Unavailable,Unavailable,0.06,Ethereum,ETH,Yes,66,36
+395,ImmVRse,UK,0.2,5000000,2172030,0.3333,300000000.0,Yes,Yes,Unavailable,1,Available,Unavailable,0.053795697,Ethereum,ETH,Yes,62,9
+396,NiMEDix ecosystem,Nigeria,0.1,1000000,10000000,0.5,100000000.0,Yes,Yes,Unavailable,2,Available,Unavailable,0.1,Ethereum,"ETH, BTC",Yes,122,91
+397,ARC-IRIS,UK,0.1,1000000,15000000,0.75,750000000.0,No,Yes,Unavailable,5,Available,Unavailable,0.025,Separate Blockchain,"ETH, BTC, LTC, Dash, Monero, ZEC, USDT",Yes,120,30
+398,Gese,Cyprus,0.0405,614004,7894572,0.65,50000000.0,Yes,Yes,Unavailable,1,Available,Available,0.125,Ethereum,"ETH, BTC",Yes,16,31
+400,STYRAS,Switzerland,0.158,840000,200000000,0.9,200000000.0,Not Specified,Not Specified,Unavailable,1,Unavailable,Unavailable,0.09010025025,Ethereum,ETH,Yes,32,6
+401,TonerCoin,Russia,0.55,50000,3850000,0.765,14000000.0,No,No,Unavailable,1,Unavailable,Unavailable,0.1,Ethereum,ETH,Yes,30,29
+402,Tryvium,Malta,0.038,1300000,21600000,0.6,540000000.0,No,No,Available,11,Unavailable,Available,0.032,Ethereum,ETH,Yes,28,28
+403,Bet On Chart,Czech Republic,0.2953,1153840,11538400,0.7,35000000.0,Yes,Yes,Unavailable,3,Available,Available,0.2296,Ethereum,"ETH, BTC, LTC, XEM",Yes,30,123
+404,EVO,Russia,0.8,4000000,8500000,0.54,54000000.0,No,Yes,Unavailable,1,Available,Unavailable,0.8,Ethereum,"ETH, BTC, LTC",Yes,31,91
+406,Wall Street Coin,United Arab Emirates,0.9,2000000,70000000,0.75,70000000.0,No,No,Unavailable,3,Available,Unavailable,0.5,Ethereum,"BTC, ETH, LTC",Yes,56,28
+407,ADAMANT Messenger,Ireland,0.174,500000,8000000,0.75,73500000.0,No,No,Unavailable,1,Unavailable,Unavailable,0.695815979,Lisk,"ETH, BTC, BCH, DASH, DOGE, LTC, XMR, ETC, ZEC, LSK",Yes,151,42
+408,BankDex,Hong Kong,0.019,1000000,6500000,0.45,450000000.0,No,No,Unavailable,1,Unavailable,Unavailable,0.019,Ethereum,"BTC, ETH, USDT, BCH",Yes,121,42
+409,CMBT,Brazil,0.94,3700000,18000000,0.37,24324325.0,Yes,Yes,Unavailable,1,Unavailable,Unavailable,0.84,Ethereum,"ETH, BTC",Yes,19,9
+410,Patron,Japan,0.5,4000000,35000000,0.6,240000000.0,No,Yes,Unavailable,1,Unavailable,Unavailable,0.28,Ethereum,"ETH, BTC, LTC",Yes,43,28
+411,Spiking,Cayman Islands,0.01,2000000,32500000,0.65,3250000000.0,Yes,Yes,Unavailable,18,Available,Available,0.01,Ethereum,ETH,Yes,12,169
+412,The GlobeToken Project,South Africa,0.0024,3000000,50000000,0.95,7220000000.0,No,No,Unavailable,2,Unavailable,Unavailable,0.00395702,Stellar,XLM,Yes,76,13
+413,Helveticoin,Switzerland,0.0171,783371,10444955,0.45,2000000000.0,Yes,Yes,Unavailable,3,Unavailable,Unavailable,0.04,Ethereum,"ETH, BTC, LTC, NEO",No,40,8
+414,MEDoctor,Switzerland,1.0,3000000,50000000,0.581,53900000.0,No,No,Unavailable,1,Available,Available,0.7,Ethereum,"BTC, BCH, ETH, LTC, DASH",Yes,272,21
+415,Nickelcoin,Australia,0.65,1300000,12000000,0.3,12000000.0,No,Yes,Unavailable,1,Unavailable,Unavailable,0.4,Ethereum,"BTC, ETH",Yes,45,11
+416,ReceiptCoin,USA,0.2,1000000,250000000,0.5,250000000.0,Yes,No,Unavailable,1,Available,Unavailable,0.0524789978,Ethereum,ETH,Yes,89,25
+417,VENDEX,Nigeria,0.1,36000000,120000000,0.6,120000000.0,Yes,Yes,Unavailable,2,Available,Unavailable,0.08,Ethereum,"ETH, BTC",Yes,15,13
+418,Cura Network,Nigeria,0.45,5000000,15000000,0.4,200000000.0,No,No,Unavailable,2,Available,Available,0.3,Ethereum,"ETH, BTC, LTC, BCH",Yes,99,29
+420,Monart,Malta,0.04488332,1099723,21994460,0.66,1000000000.0,Yes,Yes,Unavailable,20,Unavailable,Available,0.04404704,Ethereum,ETH,Yes,58,30
+421,Tokenaire,UK,0.0003,315880,1061358,0.6,4200000000.0,No,Yes,Unavailable,1,Unavailable,Available,0.00018828360351,Waves,BTC,Yes,30,78
+422,BitEsprit,UK,0.15,7500000,21878205,0.7,70000000.0,No,Yes,Unavailable,1,Available,Unavailable,0.15,Ethereum,"BTC, ETH",Yes,31,19
+423,Gooreo,Turkey,0.01,486498,4054150,0.5,440000000.0,No,No,Unavailable,2,Available,Unavailable,0.006,Ethereum,ETH,Yes,46,22
+424,Kaiser,Kyrgyzstan,0.08,4407228,17628911,0.6,4000000000.0,No,Yes,Unavailable,1,Unavailable,Available,0.06,Ethereum,ETH,Yes,10,11
+425,YouToken,USA,0.15,3000000,50000000,0.35,1000000000.0,No,Yes,Unavailable,3,Available,Unavailable,0.1,YouToken,"ETH, Fiat",Yes,63,59
+426,xDeck,Hong Kong,0.0181406067,1817591,6058639,0.6,350000000.0,Yes,Yes,Unavailable,1,Unavailable,Unavailable,0.01303134495,Ethereum,ETH,No,228,35
+427,Cannacor,Lesotho,0.12,1500000,110565000,0.78,409500000.0,No,Yes,Unavailable,3,Available,Unavailable,0.06,Ethereum,"ETH, BTC, XRP",Yes,106,95
+428,EndChain,Hong Kong,0.24,4000000,15000000,0.55,74567312.0,No,No,Unavailable,1,Available,Available,0.16,Ethereum,"BTC, ETH, BCH, LTC",Yes,151,45
+429,HydroCoin,Germany,0.2353,20000000,500000000,0.5,500000000.0,Yes,Yes,Unavailable,1,Unavailable,Unavailable,0.6953768919,Ethereum,"ETH, BTC, EUR, USD",Yes,182,89
+430,Involve,Estonia,0.0048,4338885,14462950,0.38,3500000000.0,No,Yes,Unavailable,1,Available,Unavailable,0.00561344146666667,Ethereum,ETH,Yes,94,31
+431,Roburst Network,Canada,0.0933,10000000,50000000,0.75,315000000.0,Yes,Yes,Unavailable,2,Available,Unavailable,0.09813070313,New Blockchain,"BTC, ETH",Yes,30,29
+432,ZNAQ,UK,3.2,525000,20000000,0.6,60.0,No,Yes,Unavailable,9,Available,Available,3.2,Ethereum,"BTC, ETH, XRP, BCH",Yes,30,29
+433,GYM Ledger,USA,0.4202,4000000,20000000,0.2,20000000.0,No,Yes,Unavailable,1,Available,Available,0.29358559300000003,Ethereum,ETH,Yes,76,14
+434,Nuclus,South Africa,0.009581942315,324027,2916244,0.5,500000000.0,Yes,No,Unavailable,1,Unavailable,Unavailable,0.0071999381999999995,Ethereum,ETH,Yes,117,58
+435,PREVISIONe,Ukraine,1.0518675225,300000,25000000,0.64,64000000.0,Yes,No,Available,1,Available,Unavailable,1.22279747,Ethereum,ETH,Yes,27,20
+436,Synapsecoin,Peru,0.05,3000000,18000000,0.5,495000000.0,Yes,Yes,Unavailable,5,Available,Unavailable,0.025,Ethereum,"ETH, BTC, LTC",Yes,60,120
+437,USAT,Australia,0.215,2834000,53375000,0.5,762500000.0,Yes,Yes,Unavailable,2,Available,Available,0.034,Ethereum,ETH,Yes,55,9
+438,Re:Factor,Singapore,0.0292,505562,10111245,0.72,720000000.0,Yes,Yes,Unavailable,1,Unavailable,Unavailable,0.0364182344159544,Ethereum,"ETH, BTC, LTC",Yes,91,35
+439,Burency,United Arab Emirates,0.14,20000000,50000000,0.64,448000000.0,No,Yes,Unavailable,4,Unavailable,Unavailable,0.1,Ethereum,"ETH, BTC, FIAT, USDT, XRP, XLM, BCH, LTC",Yes,42,39
+440,DateCoin,Belize,0.141,4000000,20000000,0.65,303000000.0,Yes,Yes,Unavailable,1,Unavailable,Available,0.07481652675,Ethereum,"ETH, BTC",Yes,61,30
+441,Impala,Mauritius,0.18,1000000,50000000,0.65,175500000.0,Yes,Yes,Unavailable,2,Unavailable,Unavailable,0.15,Stellar,"ETH, BTC, XLM, Fiat",Yes,181,60
+442,MONETO,Switzerland,0.5265,1086060,10860600,0.7,30031250.0,No,Yes,Unavailable,1,Available,Unavailable,0.4023152096,Ethereum,ETH,Yes,30,30
+443,OpenBrix,UK,295.34,1000,25000000,0.25,125000000.0,Yes,Yes,Unavailable,1,Available,Unavailable,0.20214571285714303,Ethereum,"ETH, BTC, Fiat",Yes,91,54
+444,SportGift,Ecuador,0.05,600000,3000000,0.52,520000000.0,No,No,Unavailable,1,Unavailable,Unavailable,0.03,Ethereum,ETH,Yes,76,75
+445,Akaiito,Estonia,0.68,883812,17676249,0.75,22500000.0,No,No,Unavailable,1,Available,Unavailable,0.86870697,Ethereum,"ETH, BTC, LTC",Yes,64,13
+446,GOTOGOD,Luxembourg,0.03,3000000,10500000,0.545,545000000.0,No,Yes,Unavailable,2,Unavailable,Unavailable,0.01,Ethereum,ETH,Yes,122,9
+447,MiMiner,Singapore,2.0,3000000,37000000,0.87,20000000.0,No,Yes,Unavailable,5,Available,Available,1.0,Ethereum,ETH,Yes,31,58
+448,Cosmecoin,UK,0.037000000000000005,2613354,6533385,0.6,300000000.0,Yes,Yes,Unavailable,10,Unavailable,Unavailable,0.0111,Ethereum,"ETH, BTC, LTC, USD, GBP, EUR",Yes,184,22
+449,Crypton,Estonia,1.0,5000000,50000000,0.7,50400000.0,Yes,Yes,Available,4,Available,Unavailable,0.7,Ethereum,"BTC, ETH",Yes,43,28
+450,Gamelife,Indonesia,0.03,67926,203778,0.7,7000000.0,No,No,Unavailable,1,Available,Unavailable,0.0293631515,Ethereum,ETH,Yes,30,14
+451,NAM,Hong Kong,0.0163,10000000,200000000,0.5,20000000000.0,No,Yes,Unavailable,1,Unavailable,Unavailable,0.0335316634525396,Ethereum,ETH,Yes,92,58
+452,ARRM,Belarus,0.08,19114199,191141992,0.75,75000000.0,Not Specified,Not Specified,Unavailable,1,Unavailable,Unavailable,0.70785,Ethereum,"BTC, ETH",Yes,32,4
+453,BFEX,Hong Kong,0.5,12000000,36000000,0.5,105000000.0,No,Yes,Unavailable,1,Available,Unavailable,0.3,Ethereum,ETH,Yes,58,30
+454,OTPPAY,India,0.037000000000000005,751346,42826738,0.6,600000000.0,No,Yes,Unavailable,1,Unavailable,Unavailable,0.0533552513125,Ethereum,ETH,Yes,65,29
+455,Robotina,Slovenia,0.05,10000000,28500000,0.7,570500000.0,No,Yes,Unavailable,6,Available,Unavailable,0.048,Ethereum,ETH,Yes,40,28
+456,Biogen,Ireland,0.0574,3000000,400000000,0.4,2000000000.0,No,No,Unavailable,2,Unavailable,Unavailable,0.054577447599999995,Ethereum,ETH,Yes,182,30
+457,PORNX,Singapore,0.224537658666667,2275899,13655399,0.7,238000000.0,Yes,No,Unavailable,3,Unavailable,Unavailable,0.3,Ethereum,"ETH, BTC, BCH, XRP, DASH, LTC",Yes,60,14
+458,Starflow,Singapore,0.1335,16000000,5683129,0.5,200000000.0,Yes,Yes,Unavailable,3,Unavailable,Unavailable,0.0947336748979592,Ethereum,ETH,Yes,149,120
+459,Telescopia,Egypt,0.48,4800000,29600000,0.517,90451461.0,No,Yes,Unavailable,1,Unavailable,Available,0.19,Ethereum,"ETH, USD",Yes,61,29
+460,WPP,Switzerland,0.065,5000000,50000000,0.5,225000000.0,No,No,Unavailable,1,Available,Available,0.0826200018518519,Ethereum,"ETH, BTC, LTC",Yes,102,62
+461,BiteCoin Network,France,0.0043,1392114,14205250,0.7,4900000000.0,No,Yes,Unavailable,1,Unavailable,Unavailable,0.00792310974,Ethereum,ETH,Yes,49,55
+463,HexanCoin,India,0.15,692570,3809140,0.5,110000000.0,No,Yes,Unavailable,2,Available,Unavailable,0.11,Ethereum,"BTC, ETH",Yes,79,36
+464,StabiX,Switzerland,11.3012,5600000,22500000,0.73,730000.0,Yes,Yes,Unavailable,1,Unavailable,Unavailable,10.63404052,Ethereum,ETH,No,31,15
+465,Cryptics,Estonia,0.2327,4000000,20000000,0.66,66000000.0,Yes,No,Unavailable,2,Available,Available,0.46030999799999994,Ethereum,ETH,Yes,28,62
+466,Open Collectors Network,Romania,0.0362,500000,6500000,0.65,97500000.0,Yes,Yes,Unavailable,1,Available,Unavailable,0.0235,Ethereum,ETH,Yes,28,56
+467,CZero,India,0.0911,350000,20000000,0.5710000000000001,200000000.0,Yes,No,Unavailable,1,Unavailable,Unavailable,0.15,Ethereum,ETH,No,12,30
+468,CashBet,USA,0.75,5000000,142975000,0.3325,142975000.0,Yes,Yes,Unavailable,7,Unavailable,Unavailable,0.42,Ethereum,"ETH, BTC, LTC",Yes,17,27
+469,LOVE Token,India,0.40399999999999997,39645,396457,0.05,500000.0,No,Yes,Unavailable,15,Unavailable,Unavailable,0.461780487,Ethereum,ETH,Yes,29,14
+470,Libellum,Hong Kong,0.1,253322,1266612,0.5,50000000.0,Yes,Yes,Unavailable,4,Unavailable,Unavailable,0.08,Ethereum,ETH,Yes,29,29
+471,Triffic,British Virgin Islands,0.05,100000,12000000,0.4,400000000.0,Yes,Yes,Unavailable,1,Unavailable,Unavailable,0.04,Ardor,"BTC, ETH, ARDR",Yes,60,14
+472,Titancore,Sweden,0.01,1000000,10000000,0.4,10000000000.0,No,No,Unavailable,1,Available,Unavailable,0.005,Ethereum,"BTC, ETH",Yes,108,29
+473,Energy Premier,Switzerland,0.0003,5000000,34050000,0.6,120000000.0,No,Yes,Unavailable,4,Unavailable,Unavailable,0.0003,Ethereum,ETH,Yes,40,225
+474,GGPRO,Malta,0.0846,1408194,4224582,0.7,70000000.0,Yes,No,Available,1,Unavailable,Available,0.0423362508,Ethereum,"BTC, ETH, LTC",Yes,61,34
+475,Housinet,Estonia,0.01,1000000,20000000,0.3,10000000000.0,No,No,Unavailable,1,Available,Unavailable,0.005,Ethereum,"ETH, BTC, LTC, BCH",Yes,69,41
+476,REOS,Singapore,0.0042,610163,5491472,0.5,5000000000.0,No,Yes,Unavailable,5,Available,Unavailable,0.00806916016,Ethereum,"ETH, BTC",Yes,92,170
+477,XchangeRate,Seychelles,0.059000000000000004,1195124,10756116,0.8,200000000.0,No,No,Unavailable,3,Available,Available,0.0278587494,Ethereum,"ETH, BTC",Yes,64,16
+478,Start Waves,Colombia,0.03,1500000,5000000,0.6,600000000.0,No,Yes,Unavailable,1,Available,Unavailable,0.015,Ethereum,ETH,Yes,121,61
+479,TradePlace,UK,0.25,1475451,10538939,0.2,50000000.0,Yes,Yes,Unavailable,1,Unavailable,Available,0.025,Ethereum,ETH,Yes,50,39
+480,Wizebit,Estonia,0.4,2500000,35000000,0.5,250000000.0,No,Yes,Unavailable,1,Unavailable,Unavailable,0.15,WizeBit,ETH,Yes,71,59
+481,Global Finances,USA,1.4,3000000,25000000,0.6,25000000.0,No,No,Unavailable,1,Unavailable,Unavailable,0.75,Ethereum,"ETH, BTC",Yes,55,13
+482,InfraCoins,Malaysia,1.25,3000000,30000000,0.6,30000000.0,No,Yes,Unavailable,1,Available,Available,0.7,Ethereum,"BTC, ETH, XRP, Fiat",Yes,82,16
+483,Arizn,South Africa,0.0216,2000000,25000000,0.7,840000000.0,No,Yes,Unavailable,1,Available,Available,0.043277200300000006,Ethereum,"ETH, Fiat",Yes,62,30
+484,ChainZilla,Panama,0.45,250000,2250000,0.45,5000000.0,No,Yes,Unavailable,5,Available,Available,0.35,Komodo,"KMD, BTC, ETH, LTC, NEM",Yes,17,21
+485,Squarex,Latvia,0.2308,3830748,13732542,0.79,68730000.0,Yes,No,Unavailable,1,Unavailable,Unavailable,0.299900004,Ethereum,"ETH, BTC, ETC, ZCASH",Yes,30,17
+486,Coalichain,Israel,0.18,3000000,33000000,0.35,269500000.0,No,Yes,Available,1,Available,Unavailable,0.14400000000000002,Ethereum,"BTC, ETH, LTC, Fiat",Yes,92,140
+487,Luxreum,Saint Kitts and Nevis,0.1,2000000,30000000,0.3,300000000.0,No,No,Unavailable,1,Unavailable,Available,0.1,Ethereum,"BTC, ETH, BCH, LTC, NEO, DASH",Yes,7,23
+488,TrustLogics,Cayman Islands,0.08,2000000,16000000,0.55,234973535.0,Yes,Yes,Unavailable,3,Available,Available,0.052000000000000005,Ethereum,"ETH, BTC, LTC, BCH",Yes,24,26
+489,Dylyver,Hungary,0.1,2000000,20000000,0.4,200000000.0,No,Yes,Unavailable,1,Unavailable,Unavailable,0.09,Ethereum,"BTC, DASH, ETH, LTC, Fiat",Yes,121,107
+490,Liker,Malta,0.016,1400000,14000000,0.3,150000000.0,Yes,Yes,Unavailable,1,Available,Available,0.021505935825,Ethereum,ETH,Yes,9,29
+491,Alt.Estate,British Virgin Islands,0.0042,1000000,15000000,0.6,7200000000.0,Yes,Yes,Unavailable,1,Available,Available,0.00502894012,Ethereum,"ETH, BTC",Yes,62,42
+492,Monoreto,Singapore,0.05,500000,5000000,0.63,125000000.0,No,No,Unavailable,1,Available,Available,0.03,Ethereum,ETH,Yes,72,61
+493,WhenHub,USA,0.25,35000000,40000000,0.34,350000000.0,No,No,Unavailable,1,Unavailable,Unavailable,0.1,Ethereum,"ETH, Credit Card (all currencies), Bank Wire (all currencies)",Yes,184,15
+494,KryptoRedeem,Mexico,0.56,500000,2500000,0.45,10000000.0,No,Yes,Unavailable,4,Unavailable,Available,0.39,Ethereum,ETH,Yes,30,6
+495,Nokenchain,France,0.0218,33050,440674,0.0952,20000000.0,No,Yes,Unavailable,4,Available,Unavailable,0.01106195,Waves,"BTC, ETH, BCH, LTC, USDC",Yes,87,57
+496,ENTRY,UK,0.174,25000000,325000000,0.55,325000000.0,Yes,Yes,Unavailable,1,Unavailable,Unavailable,0.11950999999999999,ENTRY,"BTC, ETH, DASH, Fiat",Yes,91,7
+497,King Slayer,China,0.1,3000000,25000000,0.54,26930000.0,Yes,No,Unavailable,2,Unavailable,Unavailable,0.1,ETH,"BTC, ETH",Yes,31,50
+498,Subaj Global Network,Germany,0.05,5000000,70000000,0.5,2500000000.0,No,Yes,Unavailable,1,Available,Unavailable,0.05,Ethereum,"ETH, BTC, LTC",Yes,90,44
+499,Ambit,Georgia,0.5,3000000,40000000,0.85,88000000.0,Yes,Yes,Unavailable,1,Unavailable,Unavailable,0.4,Ethereum,"BTC, ETH, Fiat",Yes,40,17
+501,Ternion,Estonia,3.23,5000000,30000000,0.8,76000000.0,Yes,Yes,Unavailable,3,Available,Available,0.65,Ethereum,"ETH, BTC, LTC, BCH",Yes,133,93
+502,Aurora Ecosystem,Spain,1.1733,3900000,60000000,1.0,180000000.0,Yes,Yes,Unavailable,3,Unavailable,Unavailable,1.1655149999999999,Separate blockchain,"BTC, ETH, NEO, ICX, Fiat",Yes,183,30
+503,IDAC,Singapore,0.6202,839156,4195783,0.25,162500000.0,No,No,Unavailable,1,Unavailable,Available,0.9040299999999999,Ethereum,ETH,Yes,30,15
+504,MeterQubes,Netherlands,0.05,4000000,8750000,0.35,350000000.0,No,No,Unavailable,1,Unavailable,Unavailable,0.02,Ethereum,"ETH, BTC",Yes,31,30
+505,Prime Shipping Foundation,Gibraltar,1.0,1250000,12250000,0.35,2100000000.0,Yes,Yes,Unavailable,1,Unavailable,Unavailable,0.05,Ethereum,"BTC, ETH",Yes,16,16
+506,TrustedCars Flex,Germany,0.0814,1600000,42000000,0.15,100000000.0,Yes,Yes,Unavailable,34,Available,Available,0.08195187,Ethereum,"ETH, BTC, Fiat",Yes,44,81
+507,Deedcoin,USA,1.0,4000000,28000000,0.7,18700000.0,Yes,Yes,Available,3,Unavailable,Unavailable,1.5,Ethereum,"ETH, BTC, LTC, Fiat",Yes,245,14
+508,Lydian Lion,Croatia,0.001102913,2000000,20000000,0.55,25000000000.0,No,No,Unavailable,1,Unavailable,Unavailable,0.00058082,Stellar,"XLM, ETH, BTC",Yes,121,62
+509,Slate,Canada,0.03,20000000,125000000,0.48,4560000000.0,Yes,Yes,Unavailable,10,Available,Available,0.02,Slatechain,"ETH, BTC, LTC, BCH, DASH, XRP, NEO, XMR",Yes,20,29
+510,The 4th Pillar,Slovenia,0.027999999999999997,2320000,13920000,0.38,152000000.0,Yes,Yes,Unavailable,40,Unavailable,Unavailable,0.0263,Ethereum,ETH,Yes,16,141
+511,Paytomat,Estonia,0.5652,1885305,7260079,0.8,17555000.0,Yes,Yes,Unavailable,4,Available,Available,0.8163419922,EOS,"BTC, ETH, LTC, WAVES, DASH",Yes,30,16
+512,TrustedHealth,Estonia,0.0376,647031,4852739,0.5,150000000.0,Yes,Yes,Unavailable,2,Unavailable,Unavailable,0.033430499280000005,Ethereum,ETH,Yes,31,6
+513,Bitbose,UK,0.25,5000000,45000000,0.7,210000000.0,Yes,Yes,Unavailable,2,Available,Unavailable,0.25,Ethereum,"BTC, ETH",Yes,137,44
+514,Infliv,Singapore,0.0722,484612,1130763,0.55,42000000.0,Yes,No,Unavailable,1,Available,Available,0.0385,Ethereum,ETH,Yes,42,19
+515,Alux Bank,Spain,0.2,10000000,25000000,0.5,500000000.0,No,Yes,Unavailable,4,Available,Unavailable,0.06,Ethereum,"BTC, ETH, Fiat",Yes,90,90
+516,ZOM,Jamaica,0.1,27251,386880,0.85,32500000.0,No,Yes,Unavailable,1,Available,Unavailable,0.07,Ethereum,"ETH, BTC",Yes,0,33
+517,AdSigma,India,0.205,2038801,13592011,0.6,60000000.0,No,No,Unavailable,1,Unavailable,Unavailable,0.10219519866666699,Ethereum,ETH,Yes,30,15
+518,Daox,United Arab Emirates,0.2509,544191,3627940,0.7,21000000.0,Yes,Yes,Unavailable,2,Available,Available,0.2,Ethereum,ETH,Yes,70,40
+519,Marginless,UK,0.055,2310580,12130545,0.7,210000000.0,No,Yes,Unavailable,1,Unavailable,Available,0.029411253781,Ethereum,"ETH, LTC, BTC",Yes,50,1
+520,PetSource,Switzerland,0.12,1000000,9500000,0.25,550000000.0,No,Yes,Available,1,Unavailable,Unavailable,0.02,Ethereum,ETH,Yes,45,28
+521,IDMoney,Costa Rica,0.3404,141501,3396047,0.45,16000000.0,Yes,No,Unavailable,2,Available,Available,0.4350322725,Ethereum,ETH,Yes,61,29
+522,Sidera,Lithuania,2.0,1500000,15000000,0.72,36720000.0,Yes,Yes,Unavailable,2,Unavailable,Unavailable,2.0,Ethereum,"ETH, Fiat",Yes,44,14
+523,Cogmento,USA,0.1,1000000,6000000,0.2,200000000.0,No,Yes,Unavailable,9,Available,Available,0.08,Ethereum,ETH,Yes,671,27
+524,Coinyspace,Estonia,0.0187,50000000,600000000,0.6,600000000.0,No,No,Unavailable,1,Unavailable,Unavailable,0.01032072022,Ethereum,ETH,Yes,50,11
+525,Gastro Advisor,Switzerland,0.3,1170000,26003250,0.5,100000000.0,No,Yes,Unavailable,1,Available,Unavailable,0.23,Ethereum,"ETH, BTC, Fiat",Yes,114,42
+526,Malaysia 370 Movie,USA,0.05,10000000,150000000,0.7,140000000.0,No,No,Unavailable,1,Unavailable,Unavailable,0.05,Ethereum,"BTC, ETH",No,183,14
+527,OFNOG,UK,0.1,15000000,25000000,0.5,250000000.0,No,No,Unavailable,1,Unavailable,Unavailable,0.1,Ethereum,"ETH, BTC",Yes,61,29
+528,Scam ICO Killer,Russia,0.06,1000000,10000000,0.7,100000000.0,No,Yes,Unavailable,1,Unavailable,Unavailable,0.03,Ethereum,"BTC,ЕТН, Various",Yes,31,31
+529,XAYA,Malta,0.1261,1568645,6588309,0.405,225000000.0,No,Yes,Unavailable,1,Available,Available,0.124314681638,XAYA,"BTC, ETH, BCH, QASH",Yes,35,56
+530,Allforcrypto,Seychelles,0.25,2000000,21000000,0.7,70000000.0,Yes,Yes,Unavailable,18,Available,Available,0.1,Waves,"ETH, BTC, LTC, DASH, WAVES, XMR, DOGE, USDT",Yes,243,37
+531,GSC Platform,France,0.05,1000000,9000000,0.3,300000000.0,No,Yes,Unavailable,6,Available,Unavailable,0.025,Ethereum,"ETH, BTC, LTC, CS, Fiat",Yes,17,176
+532,Review.Network,Cyprus,0.0112,3282813,24621097,0.6,2700000000.0,No,Yes,Unavailable,6,Unavailable,Available,0.01143995,Ethereum,"ETH, BTC, BCH, LTC",Yes,121,152
+533,Talao,France,0.46,2333325,11199960,0.67,100500000.0,Yes,Yes,Unavailable,1,Unavailable,Available,0.592984985,Ethereum,ETH,No,25,26
+534,Zamanat,USA,0.37,100000,1100000,0.64,13650000.0,No,No,Unavailable,1,Unavailable,Unavailable,0.34024096936,Ethereum,ETH,Yes,45,33
+535,Hamster Marketplace,UK,2.0,2000000,14000000,0.7,10000000.0,Not Specified,Not Specified,Unavailable,1,Unavailable,Unavailable,1.6,Ethereum,"BTC, ETH, LTC, DASH, XMR, Various",Yes,89,36
+536,MoxyOne,Australia,0.5,2126808,12760848,0.7,35000000.0,Yes,Yes,Unavailable,1,Unavailable,Unavailable,0.817807007,Ethereum,ETH,Yes,32,30
+537,SSOT Health Foundation,USA,0.03,2500000,15000000,0.5,500000000.0,Yes,Yes,Unavailable,7,Available,Available,0.03,Ethereum,"BTC, ETH",Yes,30,30
+538,PearlPay,Philippines,0.2,25000000,175000000,0.35,175000000.0,Yes,No,Available,1,Available,Available,0.2,Komodo,"BTC, KMD",Yes,59,51
+539,Play2Live,Malta,0.05,3000000,30000000,0.625,1308800000.0,Not Specified,Not Specified,Unavailable,1,Unavailable,Unavailable,0.05,Ethereum,"BTC, ETH, BCH, LTC, DASH, Fiat",Yes,21,14
+540,Remiit,Singapore,0.0009,1800000000,5300000,0.4,6000000000.0,Yes,Yes,Unavailable,6,Unavailable,Available,0.01,Ethereum,KRW,Yes,1,29
+541,ABLE,Estonia,0.0011,3341759,8354399,0.6,15000000000.0,Yes,Yes,Unavailable,1,Available,Unavailable,0.002,Ethereum,ETH,Yes,25,13
+542,Fractal Token CrowdSale,Italy,0.0675,43386,29741583,0.769,500000000.0,No,No,Unavailable,1,Available,Unavailable,0.08058338747999999,Ethereum,ETH,Yes,91,70
+543,Levblockchain LVE,Greece,0.1531,2213784,5977219,0.5,54000000.0,No,No,Unavailable,1,Available,Unavailable,0.1264672764,Ethereum,ETH,No,238,133
+544,Peoplewave,Singapore,0.087,2000000,20000000,0.42,504000000.0,No,Yes,Unavailable,2,Available,Unavailable,0.05,Ethereum,"ETH, BTC, Fiat",Yes,6,49
+545,Tixl,Germany,50.0,250000,450000,0.05,45000.0,Yes,No,Unavailable,27,Unavailable,Unavailable,20.0,Separate blockchain,"BTC, ETH, XRP, XLM, EUR",Yes,42,92
+546,When Hungry,Russia,0.0538,5093,15268295,0.8,160000000.0,No,No,Unavailable,4,Available,Available,0.061,Ethereum,ETH,Yes,30,18
+547,Tempow,Singapore,1.0,1000000,30000000,0.55,950000000.0,No,Yes,Unavailable,1,Unavailable,Unavailable,0.1666,Ethereum,"ETH, BTC, Fiat",Yes,64,62
+548,Texochat,India,0.01,1000000,8000000,0.5,1000000000.0,No,No,Unavailable,1,Available,Unavailable,0.008,Ethereum,"ETH, BTC",Yes,58,15
+549,Vernam,Bulgaria,0.085,40000000,500000000,0.5,500000000.0,Yes,Yes,Unavailable,1,Available,Available,0.051,Ethereum,"ETH, BTC, Fiat",Yes,31,20
+550,Brewery Consortium,Portugal,0.05,2500000,25000000,0.625,500000000.0,Yes,Yes,Unavailable,2,Unavailable,Unavailable,0.05,Ethereum,ETH,Yes,76,85
+551,BuyAnyLight (BAL),United Arab Emirates,0.3033,2000000,8000000,0.4,22000000.0,No,Yes,Unavailable,4,Unavailable,Unavailable,0.25,Ethereum,"BTC, ETH, EUR, USD",No,23,157
+552,Cubomania,Ukraine,0.0347,8473515,8473515,0.51,510000000.0,No,Yes,Unavailable,1,Available,Unavailable,0.0923577027,Ethereum,"ETH, BTC, LTC, BCH, DASH",Yes,140,20
+553,FILLIT,Bulgaria,0.0928,1166725,294000000,0.68,204000000.0,Not Specified,Not Specified,Unavailable,1,Unavailable,Unavailable,0.04914852,Ethereum,ETH,Yes,60,33
+554,Global REIT,United Arab Emirates,1.0,5000000,20000000,0.22,16650000.0,Yes,Yes,Unavailable,2,Available,Unavailable,1.0,Ethereum,"ETH,BTC, Fiat",Yes,29,30
+555,Rego,Singapore,0.2864,2169335,8677340,0.72,39600000.0,No,Yes,Unavailable,6,Available,Unavailable,0.37308998526315795,Ethereum,ETH,Yes,44,33
+556,pinmo,Canada,0.0896,2720955,5441910,0.35,95550000.0,No,Yes,Unavailable,2,Available,Available,0.09708066871,Ethereum,ETH,Yes,21,14
+557,uKit,Russia,0.02,2500000,10000000,0.55,550000000.0,No,Yes,Unavailable,1,Available,Unavailable,0.015,Ethereum,ETH,Yes,71,21
+559,FTEC,UK,0.0154,961026,12733594,0.85,848640000.0,Yes,Yes,Unavailable,1,Available,Available,0.0177483213032581,Ethereum,ETH,Yes,28,28
+561,Tresorio HUB,France,0.0158,813663,11733886,0.7,1400000000.0,Yes,Yes,Unavailable,41,Unavailable,Unavailable,0.00394761994,Ethereum,"ETH, BTC, BCC, DASH, DCR, DGB, ETC, GNT, KMD, LTC, NEO, NXT, OMG, RLC, SIA, XMR, XRP, ZEC",Yes,61,118
+562,ELAD Network,UK,0.1196,55000,15000000,0.7,100000000.0,No,No,Unavailable,3,Available,Available,0.1130103225,Ethereum,"BTC, ETH, USDT, EUR",Yes,71,61
+563,EZ365,Malta,0.1,1000000,3000000,0.15,30000000.0,No,Yes,Unavailable,69,Available,Available,0.08,Ethereum,"ETH, BTC",Yes,127,17
+564,Jury.Online,Estonia,0.51,3000000,6000000,0.7,21000000.0,No,No,Unavailable,1,Unavailable,Unavailable,0.36,Ethereum,"ETH, BTC, LTC, ETC, BCH",Yes,77,21
+565,MD Tokens,Hong Kong,0.3988,12427290,62136451,0.3,150000000.0,Yes,No,Unavailable,1,Unavailable,Unavailable,1.0,Ethereum,"USD, ETH",Yes,31,36
+566,Patentico,Russia,0.012,8000000,45000000,0.51,45000000.0,Yes,No,Unavailable,1,Available,Available,0.05753874974999999,Ethereum,"ETH, BTC",Yes,31,91
+567,Trustmarkethub Token,UK,0.00035,100000,215000,0.5,5000000000.0,No,No,Unavailable,1,Available,Available,0.00025,Ethereum,ETH,Yes,0,2
+568,Ethereum Card,Canada,0.09,6000000,13000000,0.722,13000000.0,No,No,Unavailable,1,Available,Unavailable,0.15,Ethereum,ETH,Yes,46,11
+569,Personal Wager,Caribbean Netherlands,0.1,2500000,25000000,0.2,200000000.0,No,No,Unavailable,3,Unavailable,Unavailable,0.05,Ethereum,"BTC, ETH, USD",No,304,30
+570,Sensitrust,UK,0.0858,606207,13215323,0.65,130000000.0,No,Yes,Unavailable,57,Unavailable,Unavailable,0.05959119999999999,Ethereum,ETH,Yes,183,183
+571,ISG,Netherlands,1.0,30000000,150000000,0.765,267750000.0,No,Yes,Unavailable,3,Unavailable,Unavailable,0.5,Ethereum,ETH,No,89,92
+572,OLXA,Germany,0.012,1000000,3000000,0.58,1500000000.0,No,No,Unavailable,1,Unavailable,Unavailable,0.01,Ethereum,"ETH, BTC, XVG, LTC, DASH, DOGE",Yes,85,16
+573,Laccoin,Canada,0.1,10000000,30000000,0.55,390000000.0,Yes,Yes,Unavailable,5,Available,Available,0.06,Ethereum,ETH,Yes,29,21
+574,Mitewallet,Australia,0.152850281,5000000,15000000,0.5,200000000.0,No,No,Unavailable,1,Unavailable,Unavailable,0.10351696284,Ethereum,"ETH, BTC, USDT",Yes,27,5
+575,Alttex,UK,0.64,290021,11600860,0.5,24999999.0,Yes,No,Unavailable,1,Available,Unavailable,0.5,Ethereum,"BTC, ETH",Yes,90,81
+576,FamilyPoints,USA,0.1,3000000,25000000,0.65,250000000.0,Not Specified,Not Specified,Unavailable,1,Unavailable,Unavailable,0.1,Ethereum,"XEM, BTC, ETH, LTC, BCH, Fiat",Yes,27,6
+577,GEMERA,British Virgin Islands,1.0,500000,30000000,0.3,30000000.0,Yes,Yes,Unavailable,2,Available,Available,1.0,Ethereum,"ETH, BTC, BCH, LTC",Yes,48,44
+578,Kheper,Malta,0.0125,2000000,17000000,0.47,1500000000.0,No,Yes,Unavailable,1,Available,Unavailable,0.01,Ethereum,"ETH, BTC, LTC, Fiat",Yes,60,29
+579,aQuest,Slovenia,0.5742,1000000,39000000,0.3611,200000000.0,No,No,Unavailable,1,Available,Available,0.352088655,Ethereum,"ETH, BTC, ENK, Fiat",Yes,43,28
+580,SETiToken,United Arab Emirates,0.85,6000000,12000000,0.2,120000000.0,No,Yes,Unavailable,1,Unavailable,Unavailable,0.3,Ethereum,ETH,Yes,10,16
+582,Saifu,Czech Republic,0.94,10000000,49000000,0.65,200000000.0,No,Yes,Unavailable,1,Unavailable,Unavailable,1.242422949235,Ethereum,"BTC, ETH, LTC, DOGE, Fiat",Yes,105,27
+583,XRT,India,0.0696,1136420,11364200,0.66,330000000.0,No,Yes,Unavailable,1,Unavailable,Unavailable,0.058004303,Ethereum,"ETH, BTC, LTC, DGB ,BNB, XMR, DASH",Yes,50,29
+584,CRWD Network,Austria,1.1332,1159608,20872944,0.5,22500000.0,Yes,Yes,Available,11,Available,Unavailable,1.158601,Ethereum,"ETH, Fiat",Yes,40,60
+585,GRAYLL,UK,0.01,1500000,35000000,0.4,5000000000.0,Yes,Yes,Unavailable,7,Available,Available,0.006999999999999999,Stellar,"XLM, BTC, LTC, ETH, Fiat",No,377,91
+586,Gric,Nigeria,0.04,1000000,25000000,0.7,7000000000.0,No,No,Unavailable,1,Unavailable,Available,0.004,Ethereum,"ETH, BTC, LTC, XRP",Yes,120,29
+588,Kikicoin,Nigeria,0.01,500000,1500000,0.6,3300000000.0,Yes,Yes,Unavailable,1,Available,Available,0.0025,Apollo Blockchain,"APL, BTC, ETH, NGN, USD, EUR, GBP",Yes,396,60
+589,PARQ,Netherlands,0.08,15000000,19500000,0.3,250000000.0,No,Yes,Unavailable,13,Unavailable,Unavailable,0.07,Ethereum,"ETH, BTC, Fiat",Yes,303,92
+590,PopChest,USA,0.0025,1131714,20000000,0.5,800000000.0,No,No,Unavailable,1,Unavailable,Unavailable,0.005,Ethereum,"ETH, BTC, Fiat",Yes,18,21
+591,Aurum,Russia,0.0402,266736,10002620,0.8,300000000.0,No,No,Unavailable,2,Available,Available,0.055039398200000006,Ethereum,ETH,Yes,56,61
+592,DICE Money,UK,0.9162,919314,9193140,0.55,55000000.0,No,Yes,Unavailable,1,Available,Available,0.389771515,Ethereum,"ETH, BTC, DICE",Yes,72,21
+593,Elysian,Belize,0.12,3000000,7000000,0.23,230000000.0,Yes,Yes,Unavailable,6,Available,Available,0.06,Ethereum,Ethereum,Yes,20,13
+594,FLOGmall,Russia,0.23,8000000,24000000,0.738,184500000.0,No,Yes,Unavailable,1,Available,Unavailable,0.270948323666667,Ethereum,"ETH, BTC, KICK",Yes,85,28
+595,Mandala,Cayman Islands,0.07,3000000,18000000,0.65,400000000.0,Yes,Yes,Unavailable,1,Unavailable,Unavailable,0.07,Ethereum,"ETH, BTC, LTC",Yes,42,40
+596,Oryx Token,Turkey,0.055,500000,2200000,0.4,40000000.0,No,No,Unavailable,1,Unavailable,Unavailable,0.022000000000000002,Ethereum,"ETH, BTC, Fiat",No,36,12
+597,RAWG,Cayman Islands,0.03,66666667,333333333,0.385,333333333.0,Yes,Yes,Unavailable,2,Available,Available,0.03,Ethereum,"BTC, ETH",Yes,14,105
+598,CoinCasso,Estonia,5.76,5000000,100000000,0.8,80000000.0,No,Yes,Unavailable,1,Available,Available,1.0,Ethereum,"BTC, LTC, BCH, BNB",Yes,436,34
+599,TripEcoSys,UK,0.015,10000000,50000000,0.4,4000000000.0,No,No,Unavailable,1,Available,Unavailable,0.012,Ethereum,"ETH, BTC, LTC, XMR, BCH, DOGE, XRP, QTUM, XVG, NEO",Yes,60,113
+600,Gift Token,USA,0.0097,6399988,26127734,0.8,40000000.0,Not Specified,Not Specified,Unavailable,1,Unavailable,Unavailable,0.0333356995,Ethereum,"ETH, BTC, LTC",No,31,131
+601,JACS,UK,0.079271637,4500000,45000000,0.5,268435456.0,No,No,Unavailable,1,Unavailable,Available,0.02759164128,Ethereum,ETH,Yes,28,199
+602,Lendingblock,UK,0.02,5000000,10000000,0.1,100000000.0,Yes,Yes,Unavailable,2,Unavailable,Unavailable,0.016666999999999998,Ethereum,ETH,Yes,7,7
+603,Multiven,Netherlands,1.1184,10945470,54727350,0.4,700000000.0,Yes,Yes,Unavailable,1,Available,Available,0.5781485,Ethereum,"ETH, BTC, LTC, EUR, USD",Yes,352,100
+604,Sandblock,France,0.145,2000000,8000000,0.5,8000000.0,No,Yes,Unavailable,1,Available,Unavailable,0.22805306,Ethereum,"ETH, BTC, Fiat",Yes,66,11
+605,Stips,UK,0.1,4400000,11400000,0.6,146251260.0,Yes,Yes,Unavailable,3,Available,Available,0.07,EOS,"BTC, ETH, LTC, BCH, EOS, USD",Yes,30,30
+606,Tombola,Hong Kong,0.0451,25000000,250000000,0.5,250000000.0,No,No,Unavailable,2,Available,Available,0.04508,Ethereum,ETH,Yes,30,31
+607,AssetStream,Estonia,0.01,144000000,2100000000,0.64,2100000000.0,No,Yes,Unavailable,4,Available,Available,0.01,Stellar,"BTC, ETH, BCH, Fiat",Yes,91,4
+608,Empleos.io,Georgia,0.5,7000000,21000000,0.5,70000000.0,Yes,Yes,Unavailable,1,Available,Available,0.375,NEM,"BTC, ETH, XEM",Yes,20,20
+609,Terawatt,Netherlands,0.4,2000000,11460000,0.65,65000000.0,No,Yes,Unavailable,8,Available,Available,0.3,Ethereum,"BTC, ETH",Yes,91,116
+610,AhrvoDEEX,British Virgin Islands,0.25,10000000,50000000,0.4,200000000.0,Yes,Yes,Unavailable,25,Unavailable,Available,0.2,Ethereum,"ETH, LTC, BTC",No,121,47
+611,Coinolix,Estonia,0.25,1298089,24038631,0.5,500000000.0,Yes,Yes,Unavailable,3,Available,Unavailable,0.2,Ethereum,"BTC, ETH, Fiat",Yes,35,30
+612,Depository Network,Estonia,0.02,2600000,15000000,0.7,2300000000.0,Yes,Yes,Unavailable,3,Available,Available,0.005,Ethereum,"BTC, ETH, LTC, BCN, BTG",Yes,30,45
+613,EXTRADECOIN,Singapore,0.0426,5000000,10000000,0.5,125000000.0,Yes,Yes,Unavailable,2,Available,Available,0.0756529998333333,Ethereum,ETH,Yes,30,62
+614,Gingr,Switzerland,0.1339,1101176,22519049,0.5,500000000.0,Yes,Yes,Unavailable,30,Available,Available,0.06539796,Ethereum,"ETH, BTC, LTC, BCH",No,29,30
+615,Kakushin,Australia,0.06,4000000,30000000,0.5,1200000000.0,Yes,No,Unavailable,2,Available,Unavailable,0.03,Ethereum,"ETH, BTC, BCH, LTC, DASH, EOS",Yes,121,30
+616,LAPO Blockchain,Switzerland,0.0349,509673,50967360,0.3,3000000000.0,Yes,Yes,Unavailable,1,Available,Available,0.01,Separate blockchain,"ETH, BTC, BCH, Fiat",Yes,183,120
+617,Lucre,Saint Kitts and Nevis,1.0,1600000,7000000,0.8,10000000.0,Yes,Yes,Unavailable,3,Available,Available,0.769,Ethereum,"ETH, Fiat",Yes,58,77
+618,Market Maker Technology,UK,0.9571,162,5354804,0.102,31250000.0,No,Yes,Unavailable,1,Unavailable,Unavailable,2.65391266,EThereum,ETH,Yes,45,44
+620,Zetanet: Blockchain 5.0 Project,Singapore,0.436716049165825,10000000,1000000000,0.42,2100000000.0,Yes,Yes,Unavailable,1,Unavailable,Unavailable,0.5,Ethereum,ETH,No,366,130
+621,Bitmillex,UK,0.5,1500000,10000000,0.67,50000000.0,Yes,Yes,Unavailable,2,Unavailable,Unavailable,0.25,Ethereum,"ETH, BTC",Yes,99,20
+622,Kingcuan,Indonesia,0.00021,500000,1267000,0.4,4800000000.0,No,No,Unavailable,1,Unavailable,Unavailable,0.00014,Ethereum,ETH,Yes,21,8
+623,PADOSCOIN,Indonesia,0.045,1500000,7020000,0.6,156000000.0,No,Yes,Unavailable,4,Unavailable,Unavailable,0.045,Ethererum,"Kickcoin, ETH",Yes,95,92
+624,UCBI Banking,Morocco,1.294091034,3341874,12000000,0.25,3000000.0,Yes,Yes,Unavailable,8,Unavailable,Unavailable,1.121227,Ethereum,"ETH, XRP, BTC, LTC, MAD, EUR, USD",Yes,92,92
+625,EtherInc,Australia,0.1,1000000,22000000,0.4511,450000000.0,Yes,Yes,Unavailable,1,Available,Available,0.1,Ethereum,"ETH, BTC, LTC",Yes,10,8
+626,Exolover,Australia,0.085,500000,25000000,0.6,60000000.0,No,No,Unavailable,1,Unavailable,Unavailable,0.05,Ethereum,ETH,Yes,30,29
+627,Peculium,France,0.01,8223971,23497060,0.25,5000000000.0,No,Yes,Unavailable,1,Available,Available,0.00588748,Ethereum,ETH,Yes,31,3
+628,Stacktical,France,0.0004,1123002,3369006,0.5,5000000000.0,No,Yes,Unavailable,30,Available,Available,0.000596615982,Ethereum,ETH,Yes,75,60
+629,Knowchain,Singapore,0.0048,7580774,37904260,0.5,3897741154.0,Yes,Yes,Unavailable,1,Available,Unavailable,0.00710557563939098,Ethereum,ETH,Yes,236,396
+630,LendsBay,Russia,0.204,250000,1500000,0.75,75000000.0,Yes,Yes,Unavailable,2,Available,Available,0.36322369369999996,Ethereum,"ETH, BTC",Yes,41,41
+631,Mira,Singapore,1.0,5000000,20000000,0.78,24000000.0,No,No,Unavailable,1,Unavailable,Unavailable,0.6,Ethereum,"BTC, ETH, LTC, DASH",Yes,121,2
+632,Obizcoin,India,0.039,1500000,15000000,0.9,27000000.0,Not Specified,Not Specified,Unavailable,1,Available,Unavailable,0.0632559980909091,Ethereum,"BTC, ETH",Yes,61,41
+633,Sansox,Finland,0.15,500000,10000000,1.0,200000000.0,No,Yes,Unavailable,2,Unavailable,Available,0.1,Waves,"BTC, ETH, Fiat",Yes,29,14
+634,Taklimakan Network,Singapore,0.05,5000000,27500000,0.55,550000000.0,No,Yes,Unavailable,2,Available,Unavailable,0.025,Ethereum,"BTC, ETH, XRP, LTC",Yes,144,31
+635,Batmine,Czech Republic,0.1244,1113115,21149185,0.4,245000000.0,Yes,Yes,Unavailable,7,Available,Unavailable,0.3212989793,Ethereum,ETH,Yes,10,5
+636,Encrybit,Hong Kong,0.2,5400000,32400000,0.6,162000000.0,No,No,Unavailable,5,Available,Available,0.2,Ethereum,"ETH, BTC",Yes,58,47
+637,FoodNation,Estonia,0.5,1200000,12000000,0.35,350000000.0,No,No,Unavailable,1,Unavailable,Available,0.3,Ethereum,ETH,Yes,90,81
+638,Acomobase,Cyprus,4.0,1740129,50753765,0.4,140000000.0,Not Specified,Not Specified,Unavailable,1,Unavailable,Unavailable,4.7020401,Ethereum,ETH,Yes,120,58
+639,Universe Coin IEO,Portugal,0.05,2000000,50000000,0.1,1000000000.0,No,Yes,Unavailable,39,Unavailable,Unavailable,0.02,Ethererum,"BTC, ETH, USD, EUR, UNIS",No,55,94
+640,AvailCom,Singapore,0.03,3000000,25000000,0.53,1166000000.0,Yes,Yes,Available,1,Available,Available,0.0195,Ethereum,"BTC, ETH, BCH, LTC, DASH",Yes,31,31
+641,Aceso,Lithuania,0.021,172934,2766956,0.6,381952000.0,Yes,Yes,Unavailable,1,Unavailable,Available,0.0163210002142857,Ethereum,"ETH, BTC",Yes,61,13
+642,InsCoin for Knox Project,Estonia,0.0564,1136420,11206238,0.54,270000000.0,No,Yes,Unavailable,2,Unavailable,Unavailable,0.09490399779999999,Ethereum,ETH,Yes,38,15
+643,Loandex,India,0.0059,2000000,12000000,0.8,800000000.0,No,No,Unavailable,1,Unavailable,Unavailable,0.01,Ethereum,ETH,Yes,30,21
+644,Satoshi Brewery,Russia,1.2,5250000,7200000,0.75,10000000.0,Not Specified,Not Specified,Unavailable,1,Unavailable,Unavailable,0.67,Ethereum,ETH,Yes,30,31
+645,CryptoGlobal Markets,UK,0.114,600000,8000000,0.75,15750000.0,No,No,Unavailable,11,Unavailable,Unavailable,0.17411718375,Ethereum,ETH,Yes,32,10
+646,DiscoveryIoT,Malta,0.05,5000000,19600000,0.51,396000000.0,Yes,Yes,Available,1,Unavailable,Unavailable,0.05,Ethereum,"ETH, BTC, Fiat",Yes,45,46
+647,Leonardian,Bulgaria,0.37,3000000,20000000,0.5,131500000.0,No,Yes,Unavailable,1,Available,Unavailable,0.2044588012,Ethereum,"ETH, BTC",Yes,56,26
+648,MapCoin,UK,0.1,1000000,25800000,0.38,380000000.0,Yes,Yes,Unavailable,1,Available,Unavailable,0.06,Ethereum,ETH,Yes,20,21
+649,BCNEX,Belize,0.15,2000000,30000000,0.5,100000000.0,No,Yes,Unavailable,2,Available,Available,0.1,Ethereum,"ETH, BTC, USDT, BCN",Yes,55,58
+650,DigiDex,Canada,0.043,364143,933118,0.61,23000000.0,No,No,Unavailable,1,Available,Unavailable,0.0432101534615385,Ethereum,ETH,Yes,61,40
+651,NAGA,USA,1.0,1000000,400000000,0.55,220000000.0,Not Specified,Not Specified,Unavailable,1,Unavailable,Unavailable,1.0,Ethereum,"BTC, ETH, LTC, DSH",Yes,14,7
+652,Pieta,Saudi Arabia,0.25,6000000,25000000,0.6,9900000.0,Yes,Yes,Unavailable,3,Available,Unavailable,0.75,Ethereum,"ETH, BTC, LTC",Yes,102,19
+653,Ternio,USA,0.1,3000000,40000000,0.49,1000000000.0,No,Yes,Unavailable,1,Available,Unavailable,0.08,Stellar,"BTC, ETH, XLM, Fiat",Yes,14,150
+655,Sentigraph.io,Cayman Islands,0.01,200000,5000000,0.5,500000000.0,No,Yes,Available,2,Unavailable,Unavailable,0.0145571127380952,Ethereum,"ETH, BTC, LTC",Yes,31,31
+656,Solarex,UK,0.05,5000000,30000000,0.56,1344000000.0,No,Yes,Unavailable,1,Available,Available,0.05,Ethereum,"BTC, ETH, LTC, BTC, DOGE, XRP",Yes,112,45
+657,Take Profit,Hong Kong,0.099,792914,3964570,0.6,60000000.0,Not Specified,Not Specified,Unavailable,1,Unavailable,Unavailable,0.059112751,Ethereum,ETH,Yes,17,30
+658,Tap4.Menu,Poland,1.0,1000000,6000000,0.6,6000000.0,Yes,Yes,Unavailable,13,Unavailable,Available,0.7,Ethereum,"BTC, ETH",Yes,91,29
+659,DirectHome,Singapore,1.0,3000000,30000000,0.5,50000000.0,Yes,Yes,Unavailable,17,Available,Unavailable,0.77,Ethereum,ETH,Yes,123,30
+660,Erecoin,Germany,0.0479,2237036,13422216,0.6,216000000.0,Yes,Yes,Unavailable,1,Unavailable,Unavailable,0.041522445649999996,Ethereum,ETH,Yes,71,79
+661,UnitedFans,Liechtenstein,0.0239,300000,6000000,0.65,84500000.0,No,Yes,Unavailable,1,Available,Unavailable,0.0758633321666667,Ethereum,"ETH, BTC, FIAT",Yes,31,14
+662,Atlas Tokens,Singapore,0.05,16000000,21000000,0.1,420000000.0,No,No,Unavailable,2,Unavailable,Unavailable,0.375,Ethereum,ETH,No,6,38
+663,Mirrows Project,Russia,0.0048,381349,1525396,0.77,1400000000.0,No,No,Unavailable,1,Available,Unavailable,0.008993610400000001,Ethereum,ETH,Yes,60,15
+664,Capverto,Denmark,2.66,6200000,20000000,0.69,171375000.0,Yes,Yes,Unavailable,1,Available,Available,1.66,Ethereum,"ETH, BTC, LTC, FIAT, BCH",Yes,168,153
+665,Faxport,Hong Kong,0.193,2700000,13500000,0.45,90000000.0,Yes,No,Unavailable,2,Unavailable,Unavailable,0.10484723405951099,Ethereum,"ETH, BTC",Yes,46,19
+666,Notarised,Macedonia,0.2,1000000,7000000,0.5,50000000.0,No,Yes,Unavailable,1,Unavailable,Unavailable,0.1,Ethereum,ETH,Yes,136,61
+667,Acorn Collective,Gibraltar,1.4,7000000,25000000,0.6,39000000.0,Yes,Yes,Unavailable,2,Unavailable,Unavailable,0.7,Ethereum,ETH,Yes,29,25
+668,Blockscart,UK,1.0,100000,2000000,0.343,21000000.0,No,Yes,Unavailable,3,Unavailable,Unavailable,0.02,Waves,"ETH, BTC, WAVES, XRP, LTC, BCH, DOGE",Yes,82,26
+669,Bytus,USA,0.59,8000000,21000000,0.758,50000000.0,No,Yes,Unavailable,2,Unavailable,Unavailable,0.53,Ethereum,"BTC, ETH, USDT",Yes,30,31
+671,Hero,Estonia,0.0043,1349550,26541150,0.69,10000000000.0,No,No,Unavailable,2,Unavailable,Unavailable,0.009852999875,Ethereum,ETH,Yes,44,92
+672,Namek,France,0.1134,452540,2262700,0.4,160000000.0,Yes,Yes,Unavailable,1,Available,Available,0.06835662,Ethereum,"BTC, ETH, LTC, Fiat",Yes,55,27
+673,Trade Nexi,Singapore,0.025,3000000,13900000,0.608,608000000.0,No,No,Unavailable,1,Available,Unavailable,0.002,Ethereum,"ETH, BTC, BAT, OMG, TUSD, BNB",Yes,72,40
+674,UnfoldU,India,42.61814944,21227267,87918906,0.39,200000000.0,No,Yes,Unavailable,1,Unavailable,Available,21.61922064,Ethereum,ETH,Yes,53,53
+675,Eternal Trusts,Singapore,0.021,7000000,27000000,0.65,1950000000.0,Yes,Yes,Unavailable,1,Available,Available,0.01,EOS,"ETH, BTC, LTC, BTH, EOS, MONERO",Yes,122,69
+676,Alehub,Hong Kong,0.2027,1488700,6550079,0.77,110000000.0,Yes,Yes,Unavailable,2,Available,Available,0.15788632931399998,Ethereum,"ETH, BTC, LTC, BCH",Yes,122,31
+677,Canlead,UK,0.0333,7000000,20000000,0.6,600000000.0,Yes,Yes,Unavailable,2,Available,Available,0.026666000000000002,Ethereum,"ETH, BTC, USDT, USD",Yes,60,38
+678,Hazeian,UK,0.3,1500000,39000000,0.65,130000000.0,No,Yes,Unavailable,1,Unavailable,Unavailable,0.24,Ethereum,ETH,Yes,28,6
+679,Bountie,Singapore,0.0314,434365,4343659,0.65,200000000.0,Yes,Yes,Unavailable,1,Unavailable,Unavailable,0.0294,Ethereum,ETH,Yes,11,34
+680,Monster Byte,Canada,0.075,2250000,15000000,0.8,200000000.0,No,No,Unavailable,2,Unavailable,Unavailable,0.075,Waves,"BTC, EOS, TRX, LTC, ETH",Yes,20,12
+681,PGF500,Switzerland,0.1137,6711108,24607396,0.8,227200000.0,No,Yes,Unavailable,2,Unavailable,Available,0.11368419999999999,Ethereum,ETH,Yes,172,6
+682,Yamzu,Sweden,0.1158,3417831,14810601,0.72,198996000.0,No,No,Unavailable,7,Unavailable,Available,0.1163738,Ethereum,ETH,Yes,60,67
